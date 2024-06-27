@@ -12,6 +12,7 @@ def clean_markdown(content):
     content = re.sub(r'_(.*?)_', r'\1', content)  # Remover texto em itálico
     content = re.sub(r'`', '', content)  # Remover outros caracteres especiais do Markdown
     content = content.replace("\n", " ")  # Remover quebras de linha
+    content = re.sub(r'Tribunal de Justiça do Estado do Amapá - CNPJ.*?feriados\.', '', content)
     return content
 
 # Função para extrair prompts e targets
@@ -39,8 +40,8 @@ def extract_prompts_targets(content):
     return results
 
 # Definir pastas de entrada e saída
-input_folder = 'jsons'
-output_folder = 'limpo'
+input_folder = 'limpo'
+output_folder = 'formatado'
 
 # Criar a pasta de saída se não existir
 os.makedirs(output_folder, exist_ok=True)
