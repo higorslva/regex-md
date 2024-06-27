@@ -3,21 +3,8 @@ import re
 import os
 import pandas as pd
 
-# Função para limpar o conteúdo em Markdown
-def clean_markdown(content):
-    # Manter colchetes e parênteses
-    content = re.sub(r'#{1,6} ', '', content)  # Remover cabeçalhos de markdown
-    content = re.sub(r'\*|_', '', content)  # Remover asteriscos e sublinhados
-    content = re.sub(r'\*\*(.*?)\*\*', r'\1', content)  # Remover texto em negrito
-    content = re.sub(r'_(.*?)_', r'\1', content)  # Remover texto em itálico
-    content = re.sub(r'`', '', content)  # Remover outros caracteres especiais do Markdown
-    content = content.replace("\n", " ")  # Remover quebras de linha
-    content = re.sub(r'Tribunal de Justiça do Estado do Amapá - CNPJ.*?feriados\.', '', content)
-    return content
-
 # Função para extrair prompts e targets
 def extract_prompts_targets(content):
-    content = clean_markdown(content)
     pattern = re.compile(r'\[(.*?)\]')
     matches = pattern.finditer(content)
     
