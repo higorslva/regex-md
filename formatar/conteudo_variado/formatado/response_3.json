@@ -1,0 +1,74 @@
+{
+    "opcao_e_link": [
+        {
+            "opcao": "",
+            "link": "http://www.tjap.jus.br"
+        },
+        {
+            "opcao": "Ir ao Portal",
+            "link": "http://www.tjap.jus.br/portal"
+        },
+        {
+            "opcao": "Produtividade dos Magistrados",
+            "link": "../view/list.magistrado.view.php"
+        },
+        {
+            "opcao": "Processômetro 2G",
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/tucujurometro2g.php"
+        },
+        {
+            "opcao": "",
+            "link": "../view/view.php"
+        },
+        {
+            "opcao": "Processômetro (Dados extraídos ontem)",
+            "link": "../view/view.php"
+        },
+        {
+            "opcao": "Corregedoria",
+            "link": "https://old.tjap.jus.br/app/open/proc/res/img/arrow.png"
+        },
+        {
+            "opcao": "",
+            "link": "https://old.tjap.jus.br/app/open/proc/imagens/estadual_primeiro_grau.jpg"
+        },
+        {
+            "opcao": "Voltar ao topo",
+            "link": "#"
+        },
+        {
+            "opcao": "blank",
+            "link": "https://old.tjap.jus.br/app/open/proc/res/img/fullmap1.jpg"
+        },
+        {
+            "opcao": "![Fechar Menu",
+            "link": "https://old.tjap.jus.br/app/open/proc/res/img/close3.png"
+        },
+        {
+            "opcao": "Grafico de Barras",
+            "link": "https://old.tjap.jus.br/app/open/proc/lib/grafico.php?titulo=ESTADUAL+-+PRIMEIRO+GRAU&tpGrafico=2&tipo=1"
+        },
+        {
+            "opcao": "632",
+            "link": "#"
+        },
+        {
+            "opcao": "688",
+            "link": "#"
+        },
+        {
+            "opcao": "GraficoInfo",
+            "link": "https://old.tjap.jus.br/app/open/proc/lib/grafico.php?tpGrafico=3"
+        },
+        {
+            "opcao": "Acompanhamento das metas nacionais",
+            "link": "https://sig.tjap.jus.br/sgpe_grid_metas_cnj_2019_unidade"
+        },
+        {
+            "opcao": "Comparar Desempenho",
+            "link": "../view/compara.php?comparar=TUE&tag=2&comarca=ESTADUAL - PRIMEIRO GRAU&id_comarca=&lotacao=&id_lotacao=&vara="
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/app/open/proc/view/view.php",
+    "descricao": "Quinta, Junho 20, 2024\n\n\n\n*   \n    \n*   \n    \n*   \n    \n\n\n\n ! \n\nEstatísticas Processuais  \n**\\* Clique no Mapa e selecione uma comarca.**\n-------------------------------------------------------------------------\n\n!\n\n\n\n  \n\n**Tribunal de Justiça do Estado do Amapá**  \nRua General Rondon, 1295, Centro, 68900-911, Macapá - Amapá - Brasil  \nHorário de Atendimento: 07:30h às 14:30h Fone. +55 (96) 3312-3300  \n  \nCopyright © 2024 - Todos os direitos reservados  \nTemplate by RocketTheme\n\n!                \n\n](#)\n\n  \n\n!\n\n  \n  \n\nProcessos com Réus Presos Provisoriamente\n\n  \n\n*   Sentença **Não** Transitada em Julgado: \n    \n*   Sem Sentença Proferida: \n    \n\n  \n  \n\n!\n\n  \n  \n\nÍNDICE DE ATENDIMENTO À DEMANDA: 6.51\n\nTEMPO MÉDIO DE DURAÇÃO DOS PROCESSOS: 393.42\n\n\n\n  \n  \n\n"
+}

@@ -6,11 +6,7 @@ app = FirecrawlApp(api_key='fc-67df28709c2247a191cb575325c6ba0e')
 
 
 urls = [
-                "https://old.tjap.jus.br/portal/servicos-de-informacao/denuncias.html",
-                "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html",
-                "https://tucujuris.tjap.jus.br/tucujuris/pages/login/login.html",
-                "https://www.tjap.jus.br/portal/transparencia/sic.html?view=article&id=1675",
-                "https://old.tjap.jus.br/portal/secretaria-de-precat%C3%B3rios-2.html"
+                "https:"
                 ]
 
 # Função para salvar a resposta em um arquivo JSON

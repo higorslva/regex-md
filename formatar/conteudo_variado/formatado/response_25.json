@@ -1,0 +1,22 @@
+{
+    "opcao_e_link": [
+        {
+            "opcao": "Entrar",
+            "link": "./?task=auth"
+        },
+        {
+            "opcao": "![TJAP",
+            "link": "https://old.tjap.jus.br/app/lib/imagens/24/card-address.png"
+        },
+        {
+            "opcao": "Voltar",
+            "link": "https://old.tjap.jus.br/app/lib/imagens/16/arrow-180.png"
+        },
+        {
+            "opcao": "Imprimir",
+            "link": "https://old.tjap.jus.br/app/lib/imagens/16/printer.png"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/intranet.html",
+    "descricao": "#### Carregando ferramentas...\n\nEste processo pode demorar um pouco, e quando estiver terminado sua tela será liberada.\n\nNão autenticado  \n\n\n  Autenticação](./)\n\n==================================================================\n\nVocê deva ativar o recurso de javascript\n\ncopyright © Tribunal de Justiça do Amapá\n\n!!"
+}
