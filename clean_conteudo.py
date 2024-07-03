@@ -3,7 +3,7 @@ import re
 import os
 
 def clean_markdown(content):
-    content = re.sub(r'\[(.*?)\]\((.*?)\)', r'\1 (\2)', content)           # Remover colchetes e parênteses de links
+    #content = re.sub(r'\[(.*?)\]\((.*?)\)', r'\1 (\2)', content)           # Remover colchetes e parênteses de links
     content = re.sub(r'(#)', ' ', content)                               # Remover jogo da velha
     content = re.sub(r'\n', ' ', content)                               # Remover "\n" do markdown
     content = re.sub(r'#{1,6} ', '', content)                            # Remover cabeçalhos de markdown
@@ -13,11 +13,12 @@ def clean_markdown(content):
     content = re.sub(r'`', '', content)                                  # Remover outros caracteres especiais do Markdown
     content = re.sub(r'Tribunal de Justiça do Estado do Amapá - CNPJ.*', '', content)   # Remover footer simples
     content = re.sub(r'Conheça o Tribunal.*', '', content)   # Remover footer de links
-    content = re.sub(r'^Topo.*?\(/portal/intranet\).*?\(http://mail\.tjap\.jus\.br/\)', '', content)   # Remover header
+    content = re.sub(r'O Presidente do Tribunal.*?\(/portal/intranet\).*?\(http://mail\.tjap\.jus\.br/\)', '', content)   # Remover header
+    content = re.sub(r'\[Topo\]\( \)', '', content)   # Remover header
     return content
 
-input_folder = 'jsons'
-output_folder = 'jsons\limpo'
+input_folder = 'conteudo'
+output_folder = 'conteudo\limpo'
 
 # Criar a pasta de saída se não existir
 os.makedirs(output_folder, exist_ok=True)

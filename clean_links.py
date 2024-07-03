@@ -3,7 +3,7 @@ import re
 import os
 
 def clean_markdown(content):
-    content = re.sub(r'\[(.*?)\]\((.*?)\)', r'\1 (\2)', content)           # Remover colchetes e parênteses de links
+    #content = re.sub(r'\[(.*?)\]\((.*?)\)', r'\1 (\2)', content)           # Remover colchetes e parênteses de links
     content = re.sub(r'(#)', ' ', content)                               # Remover jogo da velha
     content = re.sub(r'\n', ' ', content)                               # Remover "\n" do markdown
     content = re.sub(r'#{1,6} ', '', content)                            # Remover cabeçalhos de markdown
@@ -12,13 +12,14 @@ def clean_markdown(content):
     content = re.sub(r'_(.*?)_', r'\1', content)                         # Remover texto em itálico
     content = re.sub(r'`', '', content)                                  # Remover outros caracteres especiais do Markdown
     content = re.sub(r'Tribunal de Justiça do Estado do Amapá - CNPJ.*', '', content)   # Remover footer simples
-    content = re.sub(r'Conheça o Tribunal.*', '', content)   # Remover footer de links
-    content = re.sub(r'Rua General Rondon.*', '', content)   # Remover footer 
-    content = re.sub(r'^Topo.*\(/portal/intranet\).*\(http://mail\.tjap\.jus\.br/\)', '', content)   # Remover header
+    content = re.sub(r'Conheça o Tribunal.*', 'AAAAAAAAAAAAAAAAAAAAAA', content)   # Remover footer de links
+    content = re.sub(r'Rua General Rondon.*', 'AAAAAAAAAAAAAAAAAAAAA', content)   # Remover footer 
+    content = re.sub(r'O Presidente do Tribunal.*\(/portal/intranet\).*\(http://mail\.tjap\.jus\.br/\)', '', content)   # Remover header
     content = re.sub(r'Mobile Menu Toggle.*\(http://mail\.tjap\.jus\.br/.*\"Webmail\"\)', '', content)  # Remover header
     content = re.sub(r'.*\(http://mail\.tjap\.jus\.br/.*\"Webmail\"\)', '', content)  # Remover header
     content = re.sub(r'\"Back to Top\"', '', content)  # Remover header
     content = re.sub(r'\<br\>', '', content)  # Remover header
+    content = re.sub(r'\[Topo\]\( \)', '', content)   # Remover header
     return content
 
 input_folder = 'links'

@@ -1,0 +1,172 @@
+[
+    {
+        "descrição": "Início",
+        "link": "https://old.tjap.jus.br/portal/",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Tucujuris",
+        "link": "https://old.tjap.jus.br/portal/tucujuris.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "histórico",
+        "link": "https://old.tjap.jus.br/portal/histórico.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Documentos",
+        "link": "https://old.tjap.jus.br/portal/documentos.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Tecnologia",
+        "link": "https://old.tjap.jus.br/portal/tecnologia.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Perguntas frequentes (FAQ)",
+        "link": "/app/open/tucujuris/?task=faqs",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Sobre",
+        "link": "https://old.tjap.jus.br/portal/sobre.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Tucujuris Web",
+        "link": "http://tucujuris.tjap.jus.br/",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "DJE Consulta",
+        "link": "http://services.tjap.jus.br/dje/consulta",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "DJE Editor/Publicador",
+        "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/login/",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Localização de Juizes",
+        "link": "https://old.tjap.jus.br/app/open/juizes/organograma.php",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Consulta de Processos",
+        "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-processo/consultar-processo.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "BacenJud",
+        "link": "https://old.tjap.jus.br/portal/bacenjud.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Malote Digital",
+        "link": "https://old.tjap.jus.br/portal/malote-digital.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "RenaJud",
+        "link": "https://old.tjap.jus.br/portal/renajud.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "SerasaJud",
+        "link": "https://old.tjap.jus.br/portal/serasajud.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Processômetro",
+        "link": "http://old.tjap.jus.br/app/open/proc/view/view.php",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Situação Processual 2º Grau",
+        "link": "https://old.tjap.jus.br/portal/produtividade-2g.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Audiência de Custódia - CNJ",
+        "link": "https://www.cnj.jus.br/corporativo/",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Indisponibilidade de Sistemas",
+        "link": "https://old.tjap.jus.br/portal/indisponibilidade-de-sistemas.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Sistemas Conveniados",
+        "link": "https://old.tjap.jus.br/portal/sistemas-conveniados.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "CCS-Bacen",
+        "link": "https://old.tjap.jus.br/portal/ccs-bacen.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "SISBAJUD - Sistema de Busca de Ativos do Poder Judiciário",
+        "link": "https://old.tjap.jus.br/portal/sisbajud.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "INFOJUD - Sistema de Informações ao Judiciário",
+        "link": "https://old.tjap.jus.br/portal/infojud.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "CNIB - Central Nacional de Indisponibilidade de Bens",
+        "link": "https://old.tjap.jus.br/portal/cnib.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "SIEL - Sistema de Informações Eleitorais",
+        "link": "https://old.tjap.jus.br/portal/siel.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Comissão de Informatização",
+        "link": "https://old.tjap.jus.br/portal/comissão-de-informatização.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Secretaria de Gestão Processual",
+        "link": "https://old.tjap.jus.br/portal/secretaria-de-gestão-processual.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Divisão de Sistemas Judiciários",
+        "link": "https://old.tjap.jus.br/portal/divisão-de-sistemas-judiciários.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Suporte Técnico",
+        "link": "https://old.tjap.jus.br/portal/suporte-técnico.html",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Regulamento da comunicação oficial e de mero expediente por meio eletrônico - Ato Conjunto nº 209-2010",
+        "link": "https://old.tjap.jus.br/portal/images/stories/documentos/atoconjunto2092010gpcgj.pdf",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Acesso",
+        "link": "http://java.tjap.jus.br/malotedigital",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "SIG",
+        "link": "http://sig.tjap.jus.br",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    },
+    {
+        "descrição": "Organizacional",
+        "link": "http://java.tjap.jus.br/organizacional",
+        "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html"
+    }
+]
