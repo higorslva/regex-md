@@ -12,8 +12,8 @@ def clean_markdown(content):
     content = re.sub(r'_(.*?)_', r'\1', content)                         # Remover texto em itálico
     content = re.sub(r'`', '', content)                                  # Remover outros caracteres especiais do Markdown
     content = re.sub(r'Tribunal de Justiça do Estado do Amapá - CNPJ.*', '', content)   # Remover footer simples
-    content = re.sub(r'Conheça o Tribunal.*', 'AAAAAAAAAAAAAAAAAAAAAA', content)   # Remover footer de links
-    content = re.sub(r'Rua General Rondon.*', 'AAAAAAAAAAAAAAAAAAAAA', content)   # Remover footer 
+    content = re.sub(r'Conheça o Tribunal.*', '', content)   # Remover footer de links
+    content = re.sub(r'Rua General Rondon.*', '', content)   # Remover footer 
     content = re.sub(r'O Presidente do Tribunal.*\(/portal/intranet\).*\(http://mail\.tjap\.jus\.br/\)', '', content)   # Remover header
     content = re.sub(r'Mobile Menu Toggle.*\(http://mail\.tjap\.jus\.br/.*\"Webmail\"\)', '', content)  # Remover header
     content = re.sub(r'.*\(http://mail\.tjap\.jus\.br/.*\"Webmail\"\)', '', content)  # Remover header

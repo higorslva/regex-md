@@ -24,10 +24,11 @@ def main():
             
             with open(input_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                        
+            content = data.pop('content', '')
+            metadata = data.pop('metadata', {})
+            source_url = metadata.get('sourceURL', '')
             
-            content = data.get('content', '')
-            source_url = data.get('metadata', {}).get('sourceURL', '')
-
             # Extrair descrições e links
             descriptions_and_links = extract_descriptions_and_links(content)
             
@@ -35,9 +36,10 @@ def main():
             output_data = []
             for description, link in descriptions_and_links:
                 output_data.append({
-                    "descrição": description,
+                    "opcao": description,
                     "link": link,
-                    "sourceURL": source_url
+                    "sourceURL": source_url,
+                    "descrição": content
                 })
 
             # Salvar o JSON de saída
