@@ -1,22 +1,22 @@
-[
-    {
-        "descrição": "Hino da Justiça do Estado do Amapá",
-        "link": "http://www.tjap.jus.br/portal/images/stories/documentos/hinojustiaap.pdf",
-        "sourceURL": "https://old.tjap.jus.br/portal/home/hino-da-justica.html"
-    },
-    {
-        "descrição": "Resolução nº 0518/2009-TJAP",
-        "link": "http://www.tjap.jus.br/portal/images/stories/documentos/portal/resoluo%20n%200518-2009-tjap.pdf",
-        "sourceURL": "https://old.tjap.jus.br/portal/home/hino-da-justica.html"
-    },
-    {
-        "descrição": "Publicação no DOE nº 4659 de 13 de outubro de 2009",
-        "link": "http://www.tjap.jus.br/portal/images/stories/documentos/portal/publicao%20no%20doe%20n%204659.pdf",
-        "sourceURL": "https://old.tjap.jus.br/portal/home/hino-da-justica.html"
-    },
-    {
-        "descrição": "Início",
-        "link": "https://old.tjap.jus.br/portal/",
-        "sourceURL": "https://old.tjap.jus.br/portal/home/hino-da-justica.html"
-    }
-]
+{
+    "opcao_e_link": [
+        {
+            "opcao": "Hino da Justiça do Estado do Amapá",
+            "link": "http://www.tjap.jus.br/portal/images/stories/documentos/hinojustiaap.pdf"
+        },
+        {
+            "opcao": "Resolução nº 0518/2009-TJAP",
+            "link": "http://www.tjap.jus.br/portal/images/stories/documentos/portal/resoluo%20n%200518-2009-tjap.pdf"
+        },
+        {
+            "opcao": "Publicação no DOE nº 4659 de 13 de outubro de 2009",
+            "link": "http://www.tjap.jus.br/portal/images/stories/documentos/portal/publicao%20no%20doe%20n%204659.pdf"
+        },
+        {
+            "opcao": "Início",
+            "link": "https://old.tjap.jus.br/portal/"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/home/hino-da-justica.html",
+    "descricao": "  ×         Hino da Justiça ---------------                                         [AAAAAAAAAAAAAAAAAAAAAA"
+}

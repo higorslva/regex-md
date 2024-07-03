@@ -1,137 +1,114 @@
-[
-    {
-        "descrição": "",
-        "link": "  ",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Portal da Transparência",
-        "link": "https://www.tjap.jus.br/portal/transparencia.html \"Portal da Transparência\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Apresentação",
-        "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao.html \"Apresentação\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Modelo de Informações",
-        "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/modelo-de-informacoes.html \"Modelo de Informações\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Atos Transparência",
-        "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/atos-transparencia.html \"Atos Transparência \"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Ranking da Transparência",
-        "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/ranking-da-transparencia.html \"Ranking da Transparência\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Transparência Pública",
-        "link": "https://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Gestão",
-        "link": "https://www.tjap.jus.br/portal/transparencia/gestao-estrategica.html \"Gestão\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Audiências e Sessões",
-        "link": "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html \"Audiências e Sessões\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Serviço de Informações ao Cidadão",
-        "link": "https://www.tjap.jus.br/portal/transparencia/sic.html \"Serviço de Informações ao Cidadão\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Ouvidoria",
-        "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html \"Ouvidoria\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Tecnologia da Informação e Comunicação",
-        "link": "https://www.tjap.jus.br/portal/transparencia/tic.html \"Tecnologia da Informação e Comunicação\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Gestão Orçamentária e Financeira",
-        "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html \"Gestão Orçamentária e Financeira\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Licitações, Contratos e Instrumentos de Cooperação",
-        "link": "https://www.tjap.jus.br/portal/transparencia/licitacoes-contratos-e-instrumentos-de-cooperacao.html \"Licitações, Contratos e Instrumentos de Cooperação\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Gestão de Pessoas",
-        "link": "https://www.tjap.jus.br/portal/transparencia/gestao-pessoas.html \"Gestão de Pessoas\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Auditoria e Prestação de Contas",
-        "link": "https://www.tjap.jus.br/portal/transparencia/auditoria-e-prestacao-de-contas.html \"Auditoria e Prestação de Contas\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Sustentabilidade e Acessibilidade",
-        "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html \"Sustentabilidade e Acessibilidade\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Acessibilidade",
-        "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html \"Acessibilidade\"",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Início",
-        "link": "https://www.tjap.jus.br/portal/",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Portal da Transparência",
-        "link": "https://www.tjap.jus.br/portal/transparencia.html",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Socioambiental",
-        "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html?view=article&id=1711",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Acessibilidade",
-        "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "Tribunal de Justiça do Estado do Amapá",
-        "link": "https://www.tjap.jus.br/portal/images/imagens/portal/tjap-footer-ouro-2023.png",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "",
-        "link": "http://www.facebook.com/pages/tjap/215744231796241",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "",
-        "link": "http://twitter.com/tjapoficial",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "",
-        "link": "http://www.youtube.com/user/TJAPNoticias",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    },
-    {
-        "descrição": "",
-        "link": "http://instagram.com/tjap.oficial",
-        "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html"
-    }
-]
+{
+    "opcao_e_link": [
+        {
+            "opcao": "",
+            "link": "  "
+        },
+        {
+            "opcao": "Portal da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia.html \"Portal da Transparência\""
+        },
+        {
+            "opcao": "Apresentação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao.html \"Apresentação\""
+        },
+        {
+            "opcao": "Modelo de Informações",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/modelo-de-informacoes.html \"Modelo de Informações\""
+        },
+        {
+            "opcao": "Atos Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/atos-transparencia.html \"Atos Transparência \""
+        },
+        {
+            "opcao": "Ranking da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/ranking-da-transparencia.html \"Ranking da Transparência\""
+        },
+        {
+            "opcao": "Transparência Pública",
+            "link": "https://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html"
+        },
+        {
+            "opcao": "Gestão",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-estrategica.html \"Gestão\""
+        },
+        {
+            "opcao": "Audiências e Sessões",
+            "link": "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html \"Audiências e Sessões\""
+        },
+        {
+            "opcao": "Serviço de Informações ao Cidadão",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sic.html \"Serviço de Informações ao Cidadão\""
+        },
+        {
+            "opcao": "Ouvidoria",
+            "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html \"Ouvidoria\""
+        },
+        {
+            "opcao": "Tecnologia da Informação e Comunicação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/tic.html \"Tecnologia da Informação e Comunicação\""
+        },
+        {
+            "opcao": "Gestão Orçamentária e Financeira",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html \"Gestão Orçamentária e Financeira\""
+        },
+        {
+            "opcao": "Licitações, Contratos e Instrumentos de Cooperação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/licitacoes-contratos-e-instrumentos-de-cooperacao.html \"Licitações, Contratos e Instrumentos de Cooperação\""
+        },
+        {
+            "opcao": "Gestão de Pessoas",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-pessoas.html \"Gestão de Pessoas\""
+        },
+        {
+            "opcao": "Auditoria e Prestação de Contas",
+            "link": "https://www.tjap.jus.br/portal/transparencia/auditoria-e-prestacao-de-contas.html \"Auditoria e Prestação de Contas\""
+        },
+        {
+            "opcao": "Sustentabilidade e Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html \"Sustentabilidade e Acessibilidade\""
+        },
+        {
+            "opcao": "Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html \"Acessibilidade\""
+        },
+        {
+            "opcao": "Início",
+            "link": "https://www.tjap.jus.br/portal/"
+        },
+        {
+            "opcao": "Portal da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia.html"
+        },
+        {
+            "opcao": "Socioambiental",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html?view=article&id=1711"
+        },
+        {
+            "opcao": "Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html"
+        },
+        {
+            "opcao": "Tribunal de Justiça do Estado do Amapá",
+            "link": "https://www.tjap.jus.br/portal/images/imagens/portal/tjap-footer-ouro-2023.png"
+        },
+        {
+            "opcao": "",
+            "link": "http://www.facebook.com/pages/tjap/215744231796241"
+        },
+        {
+            "opcao": "",
+            "link": "http://twitter.com/tjapoficial"
+        },
+        {
+            "opcao": "",
+            "link": "http://www.youtube.com/user/TJAPNoticias"
+        },
+        {
+            "opcao": "",
+            "link": "http://instagram.com/tjap.oficial"
+        }
+    ],
+    "sourceURL": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html",
+    "descricao": "                                                                                                                                                                                                                                                                                                                                                  Sustentabilidade e Acessibilidade  Sustentabilidade e Acessibilidade ---------------------------------           Informações publicadas tais como: Plano de Logística Sustentável do TJAP, Plano de ação do PLS, O Relatório anual de desempenho do PLS e a composição e o contato da Comissão po Gestora do PLS        Sessões Online e Manifestações Públicas com Audiodescrição, Legendas e Libras, bem como, tem-se o Sítio Eletrônico e Aplicativos acessíveis para pessoas com deficiência.       !          AAAAAAAAAAAAAAAAAAAAA"
+}

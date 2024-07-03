@@ -1,72 +1,62 @@
-[
-    {
-        "descrição": "Portal",
-        "link": "https://old.tjap.jus.br/portal/",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Apresentação",
-        "link": "https://old.tjap.jus.br/portal/apresentacao-astecin.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Ações Coordenadas de Auditorias",
-        "link": "https://old.tjap.jus.br/portal/ações-coordenadas-de-auditorias.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Ações de Fortalecimento dos Órgãos",
-        "link": "https://old.tjap.jus.br/portal/acoes-fortalecimento-orgaos-controle-interno.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Determinações TCU",
-        "link": "https://old.tjap.jus.br/portal/determinações-tcu.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Determinações TCE/AP",
-        "link": "https://old.tjap.jus.br/portal/determinações-tce-ap.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Eventos de Controle",
-        "link": "https://old.tjap.jus.br/portal/eventos-de-controle.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Normas Sobre Auditoria",
-        "link": "https://old.tjap.jus.br/portal/normas-sobre-auditoria,-inspeção-administrativa-e-fiscalização.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Normativos CNJ",
-        "link": "https://old.tjap.jus.br/portal/normativos-cnj.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Planejamento",
-        "link": "https://old.tjap.jus.br/portal/planejamento-astecin.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Relatório Anual",
-        "link": "https://old.tjap.jus.br/portal/planejamento-astecin-2.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Normativos TJAP",
-        "link": "https://old.tjap.jus.br/portal/normativos-tjap.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Processo de Contas Anual",
-        "link": "https://www.tjap.jus.br/portal/planejamento-or%C3%A7ament%C3%A1rio/presta%C3%A7%C3%A3o-de-contas.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    },
-    {
-        "descrição": "Check-List",
-        "link": "https://old.tjap.jus.br/portal/check-list-astecin.html",
-        "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
-    }
-]
+{
+    "opcao_e_link": [
+        {
+            "opcao": "Portal",
+            "link": "https://old.tjap.jus.br/portal/"
+        },
+        {
+            "opcao": "Apresentação",
+            "link": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
+        },
+        {
+            "opcao": "Ações Coordenadas de Auditorias",
+            "link": "https://old.tjap.jus.br/portal/ações-coordenadas-de-auditorias.html"
+        },
+        {
+            "opcao": "Ações de Fortalecimento dos Órgãos",
+            "link": "https://old.tjap.jus.br/portal/acoes-fortalecimento-orgaos-controle-interno.html"
+        },
+        {
+            "opcao": "Determinações TCU",
+            "link": "https://old.tjap.jus.br/portal/determinações-tcu.html"
+        },
+        {
+            "opcao": "Determinações TCE/AP",
+            "link": "https://old.tjap.jus.br/portal/determinações-tce-ap.html"
+        },
+        {
+            "opcao": "Eventos de Controle",
+            "link": "https://old.tjap.jus.br/portal/eventos-de-controle.html"
+        },
+        {
+            "opcao": "Normas Sobre Auditoria",
+            "link": "https://old.tjap.jus.br/portal/normas-sobre-auditoria,-inspeção-administrativa-e-fiscalização.html"
+        },
+        {
+            "opcao": "Normativos CNJ",
+            "link": "https://old.tjap.jus.br/portal/normativos-cnj.html"
+        },
+        {
+            "opcao": "Planejamento",
+            "link": "https://old.tjap.jus.br/portal/planejamento-astecin.html"
+        },
+        {
+            "opcao": "Relatório Anual",
+            "link": "https://old.tjap.jus.br/portal/planejamento-astecin-2.html"
+        },
+        {
+            "opcao": "Normativos TJAP",
+            "link": "https://old.tjap.jus.br/portal/normativos-tjap.html"
+        },
+        {
+            "opcao": "Processo de Contas Anual",
+            "link": "https://www.tjap.jus.br/portal/planejamento-or%C3%A7ament%C3%A1rio/presta%C3%A7%C3%A3o-de-contas.html"
+        },
+        {
+            "opcao": "Check-List",
+            "link": "https://old.tjap.jus.br/portal/check-list-astecin.html"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/apresentacao-astecin.html",
+    "descricao": "  ×             Controle Interno                                                                                                                                 Apresentação ------------  Transparência é a palavra chave para começar a definir uma das mais importantes unidade administrativa que compõem o Tribunal de Justiça do Amapá: a Assessoria Técnica de Controle Interno- ASTECIN. É nesta Assessoria que é realizado o trabalho de controle e fiscalização dos processos administrativos que tramitam no âmbito do Tribunal, nas Comarcas, nos Juizados Especiais, ou seja, em toda estrutura administrativa do Poder Judiciário.  A Assessoria Técnica de Controle Interno está diretamente subordinado à Presidência do Tribunal de Justiça do Amapá, e é sua missão é contribuir com o desenvolvimento e crescimento do Poder Judiciário do Estado do Amapá visando à racionalização, eficiência, eficácia economicidade e legalidade das decisões e projetos executados no âmbito deste Tribunal.  Sua Visão é atuar de forma independente e autônoma por meio de análise, consultas,pesquisas,diagnósticos e prognósticos na gestão administrativa, orçamentária, financeira, patrimonial, de pessoal da Instituição.  O trabalho executado pela ASTECIN respalda o gestor para tomadas de decisões com mais segurança, verificando a legalidade e os princípios básicos da Administração Pública.  A Assessoria de Controle Interno realiza fiscalizações, inspeções e auditorias, propondo sempre recomendações aos gestores e trabalhando para o fortalecimento da estrutura do controle interno, a fim de auxiliar a Alta Gestão.  "
+}
