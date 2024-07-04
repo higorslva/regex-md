@@ -2,7 +2,7 @@ import os
 import json
 
 def ler_descricoes(diretorio):
-    descricoes = []
+    descricoes = {}
 
     # Iterar sobre todos os arquivos no diretório
     for filename in os.listdir(diretorio):
@@ -15,7 +15,7 @@ def ler_descricoes(diretorio):
                 
                 # Recuperar o valor da chave "descricao"
                 if 'descricao' in dados:
-                    descricoes.append(dados['descricao'])
+                    descricoes[filename] = dados['descricao']
 
     return descricoes
 
@@ -24,7 +24,7 @@ def salvar_descricoes(descricoes, arquivo_saida):
         json.dump(descricoes, file, ensure_ascii=False, indent=4)
 
 def main():
-    diretorio = 'formatado/conteudo/formatado'  # Substitua pelo caminho do seu diretório
+    diretorio = 'formatado/links/formatado'  # Substitua pelo caminho do seu diretório
     arquivo_saida = 'descricoes.json'
 
     descricoes = ler_descricoes(diretorio)

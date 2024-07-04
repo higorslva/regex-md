@@ -1,18 +1,18 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "Súmulas do Tribunal de Justiça",
+            "opcao_submenu": "Súmulas do Tribunal de Justiça",
             "link": "https://old.tjap.jus.br/portal/consultas/sumulas/30-sumulas-tribunal.html"
         },
         {
-            "opcao": "Súmulas da Turma Recursal",
+            "opcao_submenu": "Súmulas da Turma Recursal",
             "link": "https://old.tjap.jus.br/portal/consultas/sumulas/90-sumulas-recursal.html"
         },
         {
-            "opcao": "Início",
+            "opcao_submenu": "Início",
             "link": "https://old.tjap.jus.br/portal/"
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/portal/consultas/sumulas.html",
-    "descricao": "  ×         Súmulas -------  A súmula reflete entendimento pacífico de um Tribunal sobre determinada matéria e tem como objetivo a uniformização da interpretação e aplicação do direito positivo, proporcionando maior estabilidade à jusrisprudência e celeridade processual, sem, contudo, vincular as decisões dos Magistrados.  Na Turma de Uniformização dos Juizados Especiais, as súmulas são propostas a partir de acórdãos proferidos nos incidentes de uniformização de jurisprudência que reconhecem divergência de interpretação de lei entre as Turmas Recursais sobre questão de direito, tornando-a uniforme.                         ["
+    "descricao": "Explica o conceito e a função das súmulas, que visam uniformizar a interpretação e aplicação do direito, proporcionando maior estabilidade jurisprudencial e celeridade processual."
 }

@@ -1,138 +1,138 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "Atos Normativos",
+            "opcao_submenu": "Atos Normativos",
             "link": "https://sig.tjap.jus.br/atonormativogridatonormativo/atonormativogridatonormativo.php"
         },
         {
-            "opcao": "Autoinspeção Ordinária",
+            "opcao_submenu": "Autoinspeção Ordinária",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=cnjblankperfil.php&varmenuproprio=f"
         },
         {
-            "opcao": "CEJUSC",
+            "opcao_submenu": "CEJUSC",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=cejuscmenu.php&varmenuproprio=t"
         },
         {
-            "opcao": "Diligências Negativas",
+            "opcao_submenu": "Diligências Negativas",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpegridmandadosdevolvidos.php&varmenuproprio=f"
         },
         {
-            "opcao": "Execuções Fiscais",
+            "opcao_submenu": "Execuções Fiscais",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpegridexecucaofiscal.php&varmenuproprio=f"
         },
         {
-            "opcao": "Gestão de Precatórios",
+            "opcao_submenu": "Gestão de Precatórios",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=precatoriomenu.php&varmenuproprio=t"
         },
         {
-            "opcao": "Inspeção CNJ 2023",
+            "opcao_submenu": "Inspeção CNJ 2023",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=inspecaomenu.php&varmenuproprio=f"
         },
         {
-            "opcao": "LP - Res 219/2016",
+            "opcao_submenu": "LP - Res 219/2016",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=cnjgridanexoivgravadotodos.php&varmenuproprio=f"
         },
         {
-            "opcao": "Mês Nacional do Júri",
+            "opcao_submenu": "Mês Nacional do Júri",
             "link": "https://sig.tjap.jus.br/sgpecontrolquestao/sgpecontrolquestao.php"
         },
         {
-            "opcao": "Notas Técnicas (NAT-JUS)",
+            "opcao_submenu": "Notas Técnicas (NAT-JUS)",
             "link": "https://sig.tjap.jus.br/sgpegridsaude/sgpegridsaude.php"
         },
         {
-            "opcao": "NUGEP",
+            "opcao_submenu": "NUGEP",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=nugepmenu.php&varmenuproprio=t"
         },
         {
-            "opcao": "PJE - Relatórios",
+            "opcao_submenu": "PJE - Relatórios",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=menupje2.php&varmenuproprio=t"
         },
         {
-            "opcao": "Presos Provisórios",
+            "opcao_submenu": "Presos Provisórios",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=gridcnjrelatoriopresoprovisoriopainel.php&varmenuproprio=f"
         },
         {
-            "opcao": "Relatórios Diversos",
+            "opcao_submenu": "Relatórios Diversos",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=relatoriosdiversosmenu.php&varmenuproprio=f"
         },
         {
-            "opcao": "Semana da Justiça pela Paz em Casa",
+            "opcao_submenu": "Semana da Justiça pela Paz em Casa",
             "link": "https://sig.tjap.jus.br/sgpecontrolsemana/sgpecontrolsemana.php"
         },
         {
-            "opcao": "Semana Nacional de Conciliação",
+            "opcao_submenu": "Semana Nacional de Conciliação",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=semanaconciliacaomenu.php&varmenuproprio=t"
         },
         {
-            "opcao": "Sessões e Audiências",
+            "opcao_submenu": "Sessões e Audiências",
             "link": "https://sig.tjap.jus.br/sgpegridsessaoaudiencia/sgpegridsessaoaudiencia.php"
         },
         {
-            "opcao": "50 Maiores Litigantes",
+            "opcao_submenu": "50 Maiores Litigantes",
             "link": "https://sig.tjap.jus.br/sgpegrid50maioreslitigantes/sgpegrid50maioreslitigantes.php"
         },
         {
-            "opcao": "Audiências de Conciliação",
+            "opcao_submenu": "Audiências de Conciliação",
             "link": "https://sig.tjap.jus.br/sgpecontrolaudiencia/sgpecontrolaudiencia.php"
         },
         {
-            "opcao": "Condenações",
+            "opcao_submenu": "Condenações",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpecontrolpessoascondenacao.php&varmenuproprio=f"
         },
         {
-            "opcao": "Consulta Produtividade",
+            "opcao_submenu": "Consulta Produtividade",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpecontrolprodutividade.php&varmenuproprio=f"
         },
         {
-            "opcao": "Custas Processuais",
+            "opcao_submenu": "Custas Processuais",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpegridtaxascustas.php&varmenuproprio=f"
         },
         {
-            "opcao": "Processos/Partes",
+            "opcao_submenu": "Processos/Partes",
             "link": "https://sig.tjap.jus.br/sgpelinkconsultaprocessos/sgpelinkconsultaprocessos.php"
         },
         {
-            "opcao": "Rec.Civ.em Fase Recursal",
+            "opcao_submenu": "Rec.Civ.em Fase Recursal",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpecontrolacoes.php&varmenuproprio=f"
         },
         {
-            "opcao": "Reus Presos",
+            "opcao_submenu": "Reus Presos",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=sgpecontrolreuspresossemsentenca.php&varmenuproprio=f"
         },
         {
-            "opcao": "Taxas e Custas Judiciais",
+            "opcao_submenu": "Taxas e Custas Judiciais",
             "link": "https://sig.tjap.jus.br/autenticaauto/?varaplinicial=corregedoriagridcustacapataxa.php&varmenuproprio=t"
         },
         {
-            "opcao": "Tucujurômetro",
+            "opcao_submenu": "Tucujurômetro",
             "link": "https://www.tjap.jus.br/app/open/proc/view/view.php"
         },
         {
-            "opcao": "?",
+            "opcao_submenu": "?",
             "link": " "
         },
         {
-            "opcao": "Esqueceu a senha?",
+            "opcao_submenu": "Esqueceu a senha?",
             "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/recuperar-senha/recuperar-senha.html"
         },
         {
-            "opcao": "Ainda não é cadastrado?",
+            "opcao_submenu": "Ainda não é cadastrado?",
             "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/credenciamento/credenciamento.html"
         },
         {
-            "opcao": "Não consegue acessar sua conta?",
+            "opcao_submenu": "Não consegue acessar sua conta?",
             "link": " "
         },
         {
-            "opcao": "Entrar com um código de uso único",
+            "opcao_submenu": "Entrar com um código de uso único",
             "link": " "
         },
         {
-            "opcao": "mais informações",
+            "opcao_submenu": "mais informações",
             "link": " "
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/gestao_jud/",
-    "descricao": "                                                                                                                                                                                                                                                    Gestão Processual =================  Conta do SIG   Senha                                 Ainda não tem uma conta do Tucujuris?  .  Seu IP: 162.158.91.45"
+    "descricao": "Solicitação de credenciais de acesso ao SIG e informações sobre o IP do usuário."
 }

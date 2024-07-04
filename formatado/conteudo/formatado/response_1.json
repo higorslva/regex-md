@@ -1,122 +1,122 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "Portal",
+            "opcao_submenu": "Portal",
             "link": "https://old.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Cível",
+            "opcao_submenu": "Cível",
             "link": "https://old.tjap.jus.br/portal/cível.html"
         },
         {
-            "opcao": "Criminal",
+            "opcao_submenu": "Criminal",
             "link": "https://old.tjap.jus.br/portal/criminal.html"
         },
         {
-            "opcao": "Execuções Penais",
+            "opcao_submenu": "Execuções Penais",
             "link": "https://old.tjap.jus.br/portal/execuções-penais.html"
         },
         {
-            "opcao": "Execução de Penas e Medidas Alternativas",
+            "opcao_submenu": "Execução de Penas e Medidas Alternativas",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas.html"
         },
         {
-            "opcao": "Central de Garantias e Execução de Penas e Medidas Alternativas",
+            "opcao_submenu": "Central de Garantias e Execução de Penas e Medidas Alternativas",
             "link": " "
         },
         {
-            "opcao": "Apresentação",
+            "opcao_submenu": "Apresentação",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-3.html"
         },
         {
-            "opcao": "Composição",
+            "opcao_submenu": "Composição",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-4.html"
         },
         {
-            "opcao": "Edital para apresentação de Projetos Sociais",
+            "opcao_submenu": "Edital para apresentação de Projetos Sociais",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-5.html"
         },
         {
-            "opcao": "Legislação",
+            "opcao_submenu": "Legislação",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-6.html"
         },
         {
-            "opcao": "Prestação de Contas",
+            "opcao_submenu": "Prestação de Contas",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-7.html"
         },
         {
-            "opcao": "Execuções Fiscais",
+            "opcao_submenu": "Execuções Fiscais",
             "link": "https://old.tjap.jus.br/portal/execuções-fiscais.html"
         },
         {
-            "opcao": "Família e Sucessões",
+            "opcao_submenu": "Família e Sucessões",
             "link": "https://old.tjap.jus.br/portal/família-e-sucessões.html"
         },
         {
-            "opcao": "Fazenda Pública",
+            "opcao_submenu": "Fazenda Pública",
             "link": "https://old.tjap.jus.br/portal/fazenda-pública.html"
         },
         {
-            "opcao": "Infância e Juventude",
+            "opcao_submenu": "Infância e Juventude",
             "link": "https://old.tjap.jus.br/portal/infância-e-juventude.html"
         },
         {
-            "opcao": "Justiça Restaurativa",
+            "opcao_submenu": "Justiça Restaurativa",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa.html"
         },
         {
-            "opcao": "Resoluções CNJ",
+            "opcao_submenu": "Resoluções CNJ",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-2.html"
         },
         {
-            "opcao": "Portarias",
+            "opcao_submenu": "Portarias",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-8.html"
         },
         {
-            "opcao": "Seminários",
+            "opcao_submenu": "Seminários",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-3.html"
         },
         {
-            "opcao": "Práticas Restaurativas",
+            "opcao_submenu": "Práticas Restaurativas",
             "link": " "
         },
         {
-            "opcao": "Comitê",
+            "opcao_submenu": "Comitê",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-5.html"
         },
         {
-            "opcao": "Capacitação",
+            "opcao_submenu": "Capacitação",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-6.html"
         },
         {
-            "opcao": "Projetos",
+            "opcao_submenu": "Projetos",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-7.html"
         },
         {
-            "opcao": "Juizados Especiais",
+            "opcao_submenu": "Juizados Especiais",
             "link": "https://old.tjap.jus.br/portal/juizados-especiais-ii.html"
         },
         {
-            "opcao": "Violência Doméstica",
+            "opcao_submenu": "Violência Doméstica",
             "link": "https://old.tjap.jus.br/portal/violência-doméstica.html"
         },
         {
-            "opcao": "Falências e Recuperações Judiciais",
+            "opcao_submenu": "Falências e Recuperações Judiciais",
             "link": "https://old.tjap.jus.br/portal/falências-e-recuperações-judiciais.html"
         },
         {
-            "opcao": "Central Psicossocial",
+            "opcao_submenu": "Central Psicossocial",
             "link": "https://old.tjap.jus.br/portal/centralpsicossocial.html"
         },
         {
-            "opcao": "Projeto A-PRÓPRIA-AÇÃO DE VIDA",
+            "opcao_submenu": "Projeto A-PRÓPRIA-AÇÃO DE VIDA",
             "link": "https://old.tjap.jus.br/portal/centralpsicossocial/a-propria-acao-de-vida.html"
         },
         {
-            "opcao": "→Boletim Interno",
+            "opcao_submenu": "→Boletim Interno",
             "link": "https://sig.tjap.jus.br/publicacoes/mdgridpublicacoespublica.php"
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/portal/criminal.html",
-    "descricao": "  ×             Especialidades                                                                                                                                                                                                                                                                                                                                                        Criminal --------  As Varas Criminais julgam crimes e outras infrações tipificadas no Código Penal Brasileiro-CPB e nas demais leis, de acordo com a Constituição Federal. Quem for vítima ou tiver conhecimento de algum crime deve procurar a polícia ou o Ministério Público que terão o papel de investigar e fazer a denúncia ao juiz a quem caberá decidir pela abertura da ação penal . Se for dada continuidade ao processo, o juiz zelará pelo correto andamento da ação e ao final decidirá pela culpa ou inocência do réu - sentença que caberá ao Tribunal do Juri nos casos de crimes dolosos contra a vida.     Execução Penal                 IAPEN - Instituto de Administração Penal do Amapá                       CONTRAP - Coordenadoria de Tratamento Penal                                                 CEP - Coordenadoria de Execução Penal  "
+    "descricao": "Descreve as especialidades das Varas Criminais e de Execução Penal, incluindo os procedimentos de investigação e denúncia de crimes, e as funções de instituições como o IAPEN e CEP."
 }

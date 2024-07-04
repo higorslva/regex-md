@@ -8,8 +8,8 @@ def extract_options_and_links(content):
     return matches
 
 def main():
-    input_directory = 'conteudo_variado/limpo'  
-    output_directory = 'conteudo_variado/formatado' 
+    input_directory = 'formatado/links/limpo'  
+    output_directory = 'formatado/links/formatado' 
     
     os.makedirs(output_directory, exist_ok=True)
     
@@ -30,13 +30,13 @@ def main():
             content = re.sub(r'\[(.*?)\]\((.*?)\)', r'', content)          
 
             output_data = {
-                "opcao_e_link": [],
+                "opcao_submenu_e_link": [],
                 "sourceURL": source_url,
                 "descricao": content
             }
             for description, link in descriptions_and_links:
-                output_data["opcao_e_link"].append({
-                    "opcao": description,
+                output_data["opcao_submenu_e_link"].append({
+                    "opcao_submenu": description,
                     "link": link
                 })
 

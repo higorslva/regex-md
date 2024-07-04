@@ -1,78 +1,78 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "Portal",
+            "opcao_submenu": "Portal",
             "link": "https://old.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Concursos",
+            "opcao_submenu": "Concursos",
             "link": "https://old.tjap.jus.br/portal/concursos.html"
         },
         {
-            "opcao": "Servidor Efetivo",
+            "opcao_submenu": "Servidor Efetivo",
             "link": "https://old.tjap.jus.br/portal/servidor-efetivo.html"
         },
         {
-            "opcao": "Concurso 2023",
+            "opcao_submenu": "Concurso 2023",
             "link": "https://old.tjap.jus.br/portal/servidor-efetivo/concurso-2023.html"
         },
         {
-            "opcao": "Cartórios Extrajudiciais",
+            "opcao_submenu": "Cartórios Extrajudiciais",
             "link": "https://old.tjap.jus.br/portal/cartórios-extrajudiciais.html"
         },
         {
-            "opcao": "Estagiários",
+            "opcao_submenu": "Estagiários",
             "link": "https://old.tjap.jus.br/portal/estagiarios.html"
         },
         {
-            "opcao": "14º Processo Seletivo Estágio",
+            "opcao_submenu": "14º Processo Seletivo Estágio",
             "link": "https://old.tjap.jus.br/portal/estagiarios/14-processo-seletivo-estágio.html"
         },
         {
-            "opcao": "13º Processo Seletivo Estágio",
+            "opcao_submenu": "13º Processo Seletivo Estágio",
             "link": "https://old.tjap.jus.br/portal/estagiarios/13-processo-seletivo-estágio.html"
         },
         {
-            "opcao": "Magistratura",
+            "opcao_submenu": "Magistratura",
             "link": "https://old.tjap.jus.br/portal/magistratura.html"
         },
         {
-            "opcao": "Remoção",
+            "opcao_submenu": "Remoção",
             "link": "https://old.tjap.jus.br/portal/remocao.html"
         },
         {
-            "opcao": "Residência Jurídica",
+            "opcao_submenu": "Residência Jurídica",
             "link": "https://old.tjap.jus.br/portal/residencia-juridica.html"
         },
         {
-            "opcao": "![Inserirumtitulo.png",
+            "opcao_submenu": "![Inserirumtitulo.png",
             "link": "https://old.tjap.jus.br/portal/images/Inserirumtitulo.png"
         },
         {
-            "opcao": "![CartoriosExtrajudiciais.png",
+            "opcao_submenu": "![CartoriosExtrajudiciais.png",
             "link": "https://old.tjap.jus.br/portal/images/CartoriosExtrajudiciais.png"
         },
         {
-            "opcao": "![Magistratura.png",
+            "opcao_submenu": "![Magistratura.png",
             "link": "https://old.tjap.jus.br/portal/images/Magistratura.png"
         },
         {
-            "opcao": "![Remocao.png",
+            "opcao_submenu": "![Remocao.png",
             "link": "https://old.tjap.jus.br/portal/images/Remocao.png"
         },
         {
-            "opcao": "![ServidorEfetivo.png",
+            "opcao_submenu": "![ServidorEfetivo.png",
             "link": "https://old.tjap.jus.br/portal/images/ServidorEfetivo.png"
         },
         {
-            "opcao": "![ResidenciaJuridica.png",
+            "opcao_submenu": "![ResidenciaJuridica.png",
             "link": "https://old.tjap.jus.br/portal/images/ResidenciaJuridica.png"
         },
         {
-            "opcao": "![Voluntariado.png",
+            "opcao_submenu": "![Voluntariado.png",
             "link": "https://old.tjap.jus.br/portal/images/Voluntariado.png"
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/portal/concursos.html",
-    "descricao": "  ×                                                                                                                           Concursos ---------  CONCURSOS PÚBLICOS / PROCESSOS SELETIVOS  |     |     |     |     | | --- | --- | --- | --- | | ](https://old.tjap.jus.br/portal/estagiarios.html) | ](https://old.tjap.jus.br/portal/cart%C3%B3rios-extrajudiciais.html) | ](https://old.tjap.jus.br/portal/magistratura.html) | ](https://old.tjap.jus.br/portal/remocao.html) | | ](https://old.tjap.jus.br/portal/servidor-efetivo.html) | ](https://old.tjap.jus.br/portal/residencia-juridica.html) | ](https://old.tjap.jus.br/portal/arquivo-concursos/13981-voluntariado-do-tjap.html) |     |  "
+    "descricao": "Fornece informações sobre concursos públicos e processos seletivos, abrangendo várias categorias de vagas e links para detalhes adicionais."
 }

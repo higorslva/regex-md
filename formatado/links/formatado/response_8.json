@@ -1,354 +1,354 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "DESEMBARGADOR ADÃO CARVALHO",
+            "opcao_submenu": "DESEMBARGADOR ADÃO CARVALHO",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=155026"
         },
         {
-            "opcao": "DESEMBARGADOR JAYME FERREIRA",
+            "opcao_submenu": "DESEMBARGADOR JAYME FERREIRA",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=198695"
         },
         {
-            "opcao": "JAYME HENRIQUE FERREIRA",
+            "opcao_submenu": "JAYME HENRIQUE FERREIRA",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=198695"
         },
         {
-            "opcao": "DESEMBARGADOR GILBERTO PINHEIRO",
+            "opcao_submenu": "DESEMBARGADOR GILBERTO PINHEIRO",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=3073020"
         },
         {
-            "opcao": "DESEMBARGADOR CARMO ANTÔNIO",
+            "opcao_submenu": "DESEMBARGADOR CARMO ANTÔNIO",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=157372"
         },
         {
-            "opcao": "DESEMBARGADOR AGOSTINO SILVÉRIO",
+            "opcao_submenu": "DESEMBARGADOR AGOSTINO SILVÉRIO",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=333719"
         },
         {
-            "opcao": "DESEMBARGADOR MÁRIO MAZUREK",
+            "opcao_submenu": "DESEMBARGADOR MÁRIO MAZUREK",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=155200"
         },
         {
-            "opcao": "DESEMBARGADOR CARLOS TORK",
+            "opcao_submenu": "DESEMBARGADOR CARLOS TORK",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=108"
         },
         {
-            "opcao": "DESEMBARGADOR JOAO LAGES",
+            "opcao_submenu": "DESEMBARGADOR JOAO LAGES",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=3055934"
         },
         {
-            "opcao": "DESEMBARGADOR ROMMEL ARAÚJO DE OLIVEIRA",
+            "opcao_submenu": "DESEMBARGADOR ROMMEL ARAÚJO DE OLIVEIRA",
             "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=3599009"
         },
         {
-            "opcao": "MARINA LORENA NUNES LUSTOSA",
+            "opcao_submenu": "MARINA LORENA NUNES LUSTOSA",
             "link": "../view/detalhe.magistrado.view.php?id=133781"
         },
         {
-            "opcao": "DÉCIO JOSÉ SANTOS RUFINO",
+            "opcao_submenu": "DÉCIO JOSÉ SANTOS RUFINO",
             "link": "../view/detalhe.magistrado.view.php?id=155034"
         },
         {
-            "opcao": "STELLA SIMONNE RAMOS",
+            "opcao_submenu": "STELLA SIMONNE RAMOS",
             "link": "../view/detalhe.magistrado.view.php?id=165541"
         },
         {
-            "opcao": "STELLA SIMONNE RAMOS",
+            "opcao_submenu": "STELLA SIMONNE RAMOS",
             "link": "../view/detalhe.magistrado.view.php?id=165541"
         },
         {
-            "opcao": "ALAIDE MARIA DE PAULA",
+            "opcao_submenu": "ALAIDE MARIA DE PAULA",
             "link": "../view/detalhe.magistrado.view.php?id=372680"
         },
         {
-            "opcao": "ANTONIO ERNESTO AMORAS COLLARES",
+            "opcao_submenu": "ANTONIO ERNESTO AMORAS COLLARES",
             "link": "../view/detalhe.magistrado.view.php?id=155029"
         },
         {
-            "opcao": "JOSÉ LUCIANO DE ASSIS",
+            "opcao_submenu": "JOSÉ LUCIANO DE ASSIS",
             "link": "../view/detalhe.magistrado.view.php?id=2680"
         },
         {
-            "opcao": "CESAR AUGUSTO SCAPIN",
+            "opcao_submenu": "CESAR AUGUSTO SCAPIN",
             "link": "../view/detalhe.magistrado.view.php?id=155196"
         },
         {
-            "opcao": "REGINALDO GOMES DE ANDRADE",
+            "opcao_submenu": "REGINALDO GOMES DE ANDRADE",
             "link": "../view/detalhe.magistrado.view.php?id=3174119"
         },
         {
-            "opcao": "ELAYNE DA SILVA RAMOS CANTUARIA",
+            "opcao_submenu": "ELAYNE DA SILVA RAMOS CANTUARIA",
             "link": "../view/detalhe.magistrado.view.php?id=372712"
         },
         {
-            "opcao": "MARCONI MARINHO PIMENTA",
+            "opcao_submenu": "MARCONI MARINHO PIMENTA",
             "link": "../view/detalhe.magistrado.view.php?id=3597736"
         },
         {
-            "opcao": "ELEUSA DA SILVA MUNIZ",
+            "opcao_submenu": "ELEUSA DA SILVA MUNIZ",
             "link": "../view/detalhe.magistrado.view.php?id=155036"
         },
         {
-            "opcao": "CARLOS ALBERTO CANEZIN",
+            "opcao_submenu": "CARLOS ALBERTO CANEZIN",
             "link": "../view/detalhe.magistrado.view.php?id=3485673"
         },
         {
-            "opcao": "MARCUS VINICIUS GOUVEA QUINTAS",
+            "opcao_submenu": "MARCUS VINICIUS GOUVEA QUINTAS",
             "link": "../view/detalhe.magistrado.view.php?id=3388494"
         },
         {
-            "opcao": "AUGUSTO CESAR GOMES LEITE",
+            "opcao_submenu": "AUGUSTO CESAR GOMES LEITE",
             "link": "../view/detalhe.magistrado.view.php?id=155023"
         },
         {
-            "opcao": "MATIAS PIRES NETO",
+            "opcao_submenu": "MATIAS PIRES NETO",
             "link": "../view/detalhe.magistrado.view.php?id=155047"
         },
         {
-            "opcao": "JOSE BONIFACIO LIMA DA MATA",
+            "opcao_submenu": "JOSE BONIFACIO LIMA DA MATA",
             "link": "../view/detalhe.magistrado.view.php?id=750007216"
         },
         {
-            "opcao": "PAULO CÉSAR DO VALE MADEIRA",
+            "opcao_submenu": "PAULO CÉSAR DO VALE MADEIRA",
             "link": "../view/detalhe.magistrado.view.php?id=900011030"
         },
         {
-            "opcao": "KEILA CHRISTINE BANHA BASTOS UTZIG",
+            "opcao_submenu": "KEILA CHRISTINE BANHA BASTOS UTZIG",
             "link": "../view/detalhe.magistrado.view.php?id=1078"
         },
         {
-            "opcao": "LIEGE CRISTINA DE VASCONCELOS RAMOS GOMES",
+            "opcao_submenu": "LIEGE CRISTINA DE VASCONCELOS RAMOS GOMES",
             "link": "../view/detalhe.magistrado.view.php?id=3008021"
         },
         {
-            "opcao": "THINA LUIZA DALMEIDA GOMES DOS SANTOS SOUSA",
+            "opcao_submenu": "THINA LUIZA DALMEIDA GOMES DOS SANTOS SOUSA",
             "link": "../view/detalhe.magistrado.view.php?id=155022"
         },
         {
-            "opcao": "NORMANDES ANTÔNIO DE SOUSA",
+            "opcao_submenu": "NORMANDES ANTÔNIO DE SOUSA",
             "link": "../view/detalhe.magistrado.view.php?id=1080"
         },
         {
-            "opcao": "EDUARDO NAVARRO MACHADO",
+            "opcao_submenu": "EDUARDO NAVARRO MACHADO",
             "link": "../view/detalhe.magistrado.view.php?id=1084"
         },
         {
-            "opcao": "FABIO SANTANA DOS SANTOS",
+            "opcao_submenu": "FABIO SANTANA DOS SANTOS",
             "link": "../view/detalhe.magistrado.view.php?id=155012"
         },
         {
-            "opcao": "NILTON BIANQUINI FILHO",
+            "opcao_submenu": "NILTON BIANQUINI FILHO",
             "link": "../view/detalhe.magistrado.view.php?id=1083"
         },
         {
-            "opcao": "CARLOS FERNANDO SILVA RAMOS",
+            "opcao_submenu": "CARLOS FERNANDO SILVA RAMOS",
             "link": "../view/detalhe.magistrado.view.php?id=155010"
         },
         {
-            "opcao": "ALINE CONCEIÇÃO CARDOSO DE ALMEIDA PEREZ",
+            "opcao_submenu": "ALINE CONCEIÇÃO CARDOSO DE ALMEIDA PEREZ",
             "link": "../view/detalhe.magistrado.view.php?id=3428104"
         },
         {
-            "opcao": "GELCINETE DA ROCHA LOPES",
+            "opcao_submenu": "GELCINETE DA ROCHA LOPES",
             "link": "../view/detalhe.magistrado.view.php?id=155013"
         },
         {
-            "opcao": "NELBA DE SOUZA SIQUEIRA",
+            "opcao_submenu": "NELBA DE SOUZA SIQUEIRA",
             "link": "../view/detalhe.magistrado.view.php?id=172600"
         },
         {
-            "opcao": "NAIF JOSE MAUES NAIF DAIBES",
+            "opcao_submenu": "NAIF JOSE MAUES NAIF DAIBES",
             "link": "../view/detalhe.magistrado.view.php?id=155018"
         },
         {
-            "opcao": "LIVIA SIMONE OLIVEIRA DE FREITAS CARDOSO",
+            "opcao_submenu": "LIVIA SIMONE OLIVEIRA DE FREITAS CARDOSO",
             "link": "../view/detalhe.magistrado.view.php?id=161360"
         },
         {
-            "opcao": "MICHELLE COSTA FARIAS",
+            "opcao_submenu": "MICHELLE COSTA FARIAS",
             "link": "../view/detalhe.magistrado.view.php?id=155017"
         },
         {
-            "opcao": "ELIANA NUNES DO NASCIMENTO",
+            "opcao_submenu": "ELIANA NUNES DO NASCIMENTO",
             "link": "../view/detalhe.magistrado.view.php?id=155011"
         },
         {
-            "opcao": "JOENILDA LOBATO SILVA LENZI",
+            "opcao_submenu": "JOENILDA LOBATO SILVA LENZI",
             "link": "../view/detalhe.magistrado.view.php?id=155015"
         },
         {
-            "opcao": "LARISSA NORONHA ANTUNES",
+            "opcao_submenu": "LARISSA NORONHA ANTUNES",
             "link": "../view/detalhe.magistrado.view.php?id=1077"
         },
         {
-            "opcao": "CARLINE REGINA DE NEGREIROS CABRAL NUNES",
+            "opcao_submenu": "CARLINE REGINA DE NEGREIROS CABRAL NUNES",
             "link": "../view/detalhe.magistrado.view.php?id=155009"
         },
         {
-            "opcao": "AILTON MARCELO MOTA VIDAL",
+            "opcao_submenu": "AILTON MARCELO MOTA VIDAL",
             "link": "../view/detalhe.magistrado.view.php?id=331811"
         },
         {
-            "opcao": "ILANA KABACZNIK LUONGO KAPAH",
+            "opcao_submenu": "ILANA KABACZNIK LUONGO KAPAH",
             "link": "../view/detalhe.magistrado.view.php?id=3463207"
         },
         {
-            "opcao": "MURILO AUGUSTO DE FARIA SANTOS",
+            "opcao_submenu": "MURILO AUGUSTO DE FARIA SANTOS",
             "link": "../view/detalhe.magistrado.view.php?id=3977379"
         },
         {
-            "opcao": "LUIZ CARLOS KOPES BRANDAO",
+            "opcao_submenu": "LUIZ CARLOS KOPES BRANDAO",
             "link": "../view/detalhe.magistrado.view.php?id=345016"
         },
         {
-            "opcao": "HERALDO NASCIMENTO DA COSTA",
+            "opcao_submenu": "HERALDO NASCIMENTO DA COSTA",
             "link": "../view/detalhe.magistrado.view.php?id=3288674"
         },
         {
-            "opcao": "PRISCYLLA PEIXOTO MENDES",
+            "opcao_submenu": "PRISCYLLA PEIXOTO MENDES",
             "link": "../view/detalhe.magistrado.view.php?id=155021"
         },
         {
-            "opcao": "ESCLEPÍADES DE OLIVEIRA NETO",
+            "opcao_submenu": "ESCLEPÍADES DE OLIVEIRA NETO",
             "link": "../view/detalhe.magistrado.view.php?id=3463190"
         },
         {
-            "opcao": "DIEGO MOURA DE ARAUJO",
+            "opcao_submenu": "DIEGO MOURA DE ARAUJO",
             "link": "../view/detalhe.magistrado.view.php?id=3463198"
         },
         {
-            "opcao": "DÉLIA SILVA RAMOS",
+            "opcao_submenu": "DÉLIA SILVA RAMOS",
             "link": "../view/detalhe.magistrado.view.php?id=162125"
         },
         {
-            "opcao": "ZEEBER LOPES FERREIRA",
+            "opcao_submenu": "ZEEBER LOPES FERREIRA",
             "link": "../view/detalhe.magistrado.view.php?id=3463199"
         },
         {
-            "opcao": "LAURA COSTEIRA ARAUJO DE OLIVEIRA",
+            "opcao_submenu": "LAURA COSTEIRA ARAUJO DE OLIVEIRA",
             "link": "../view/detalhe.magistrado.view.php?id=3098460"
         },
         {
-            "opcao": "JOSÉ CASTELLÕES MENEZES NETO",
+            "opcao_submenu": "JOSÉ CASTELLÕES MENEZES NETO",
             "link": "../view/detalhe.magistrado.view.php?id=3463173"
         },
         {
-            "opcao": "MARINA LORENA NUNES LUSTOSA",
+            "opcao_submenu": "MARINA LORENA NUNES LUSTOSA",
             "link": "../view/detalhe.magistrado.view.php?id=133781"
         },
         {
-            "opcao": "ALMIRO DO SOCORRO AVELAR DENIUR",
+            "opcao_submenu": "ALMIRO DO SOCORRO AVELAR DENIUR",
             "link": "../view/detalhe.magistrado.view.php?id=372642"
         },
         {
-            "opcao": "MARCELLA PEIXOTO SMITH",
+            "opcao_submenu": "MARCELLA PEIXOTO SMITH",
             "link": "../view/detalhe.magistrado.view.php?id=161648"
         },
         {
-            "opcao": "JULLE ANDERSON DE SOUZA MOTA",
+            "opcao_submenu": "JULLE ANDERSON DE SOUZA MOTA",
             "link": "../view/detalhe.magistrado.view.php?id=3596542"
         },
         {
-            "opcao": "DAVI SCHWAB KOHLS",
+            "opcao_submenu": "DAVI SCHWAB KOHLS",
             "link": "../view/detalhe.magistrado.view.php?id=500154994"
         },
         {
-            "opcao": "FÁBIO SILVEIRA GURGEL DO AMARAL",
+            "opcao_submenu": "FÁBIO SILVEIRA GURGEL DO AMARAL",
             "link": "../view/detalhe.magistrado.view.php?id=3463212"
         },
         {
-            "opcao": "FABIANA DA SILVA OLIVEIRA",
+            "opcao_submenu": "FABIANA DA SILVA OLIVEIRA",
             "link": "../view/detalhe.magistrado.view.php?id=3463218"
         },
         {
-            "opcao": "MARCK WILLIAM MADUREIRA DA COSTA",
+            "opcao_submenu": "MARCK WILLIAM MADUREIRA DA COSTA",
             "link": "../view/detalhe.magistrado.view.php?id=3305338"
         },
         {
-            "opcao": "ROBERVAL PANTOJA PACHECO",
+            "opcao_submenu": "ROBERVAL PANTOJA PACHECO",
             "link": "../view/detalhe.magistrado.view.php?id=3419725"
         },
         {
-            "opcao": "ANDRE GONÇALVES DE MENEZES",
+            "opcao_submenu": "ANDRE GONÇALVES DE MENEZES",
             "link": "../view/detalhe.magistrado.view.php?id=3624814"
         },
         {
-            "opcao": "SIMONE MORAES DOS SANTOS",
+            "opcao_submenu": "SIMONE MORAES DOS SANTOS",
             "link": "../view/detalhe.magistrado.view.php?id=3624813"
         },
         {
-            "opcao": "DIOGO DE SOUZA SOBRAL",
+            "opcao_submenu": "DIOGO DE SOUZA SOBRAL",
             "link": "../view/detalhe.magistrado.view.php?id=3624818"
         },
         {
-            "opcao": "MAYRA JULIA TEIXEIRA BRANDAO",
+            "opcao_submenu": "MAYRA JULIA TEIXEIRA BRANDAO",
             "link": "../view/detalhe.magistrado.view.php?id=3624822"
         },
         {
-            "opcao": "HAUNY RODRIGUES DINIZ",
+            "opcao_submenu": "HAUNY RODRIGUES DINIZ",
             "link": "../view/detalhe.magistrado.view.php?id=3889117"
         },
         {
-            "opcao": "SARA GABRIELA ZOLANDEK",
+            "opcao_submenu": "SARA GABRIELA ZOLANDEK",
             "link": "../view/detalhe.magistrado.view.php?id=3946196"
         },
         {
-            "opcao": "DIOGO HARUO DA SILVA TANAKA",
+            "opcao_submenu": "DIOGO HARUO DA SILVA TANAKA",
             "link": "../view/detalhe.magistrado.view.php?id=3947348"
         },
         {
-            "opcao": "LUIS GUILHERME CONVERSANI",
+            "opcao_submenu": "LUIS GUILHERME CONVERSANI",
             "link": "../view/detalhe.magistrado.view.php?id=3947353"
         },
         {
-            "opcao": "LUIZ GABRIEL LEONIDAS ESPINA HERNANDEZ GEO VERCOZA",
+            "opcao_submenu": "LUIZ GABRIEL LEONIDAS ESPINA HERNANDEZ GEO VERCOZA",
             "link": "../view/detalhe.magistrado.view.php?id=3947355"
         },
         {
-            "opcao": "ROSALIA BODNAR",
+            "opcao_submenu": "ROSALIA BODNAR",
             "link": "../view/detalhe.magistrado.view.php?id=3947359"
         },
         {
-            "opcao": "THIAGO FERRARE PINTO",
+            "opcao_submenu": "THIAGO FERRARE PINTO",
             "link": "../view/detalhe.magistrado.view.php?id=3947360"
         },
         {
-            "opcao": "FERNANDO MANTOVANI LEANDRO",
+            "opcao_submenu": "FERNANDO MANTOVANI LEANDRO",
             "link": "../view/detalhe.magistrado.view.php?id=3974333"
         },
         {
-            "opcao": "MURILO AUGUSTO DE FARIA SANTOS",
+            "opcao_submenu": "MURILO AUGUSTO DE FARIA SANTOS",
             "link": "../view/detalhe.magistrado.view.php?id=3977379"
         },
         {
-            "opcao": "ANA THERESA MORAES RODRIGUES",
+            "opcao_submenu": "ANA THERESA MORAES RODRIGUES",
             "link": "../view/detalhe.magistrado.view.php?id=3977380"
         },
         {
-            "opcao": "RODRIGO MARQUES BERGAMO",
+            "opcao_submenu": "RODRIGO MARQUES BERGAMO",
             "link": "../view/detalhe.magistrado.view.php?id=3977381"
         },
         {
-            "opcao": "ROBSON TIMOTEO DAMASCENO",
+            "opcao_submenu": "ROBSON TIMOTEO DAMASCENO",
             "link": "../view/detalhe.magistrado.view.php?id=1050034280"
         },
         {
-            "opcao": "ANTÔNIO JOSÉ DE MENEZES",
+            "opcao_submenu": "ANTÔNIO JOSÉ DE MENEZES",
             "link": "../view/detalhe.magistrado.view.php?id=1150011964"
         },
         {
-            "opcao": "MOISES FERREIRA DINIZ",
+            "opcao_submenu": "MOISES FERREIRA DINIZ",
             "link": "../view/detalhe.magistrado.view.php?id=3624823"
         },
         {
-            "opcao": "LUCIANA BARROS DE CAMARGO",
+            "opcao_submenu": "LUCIANA BARROS DE CAMARGO",
             "link": "../view/detalhe.magistrado.view.php?id=3624820"
         },
         {
-            "opcao": "RAYLENE NOGUEIRA DA SILVA",
+            "opcao_submenu": "RAYLENE NOGUEIRA DA SILVA",
             "link": "../view/detalhe.magistrado.view.php?id=3767949"
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/app/open/proc/view/list.magistrado.view.php",
-    "descricao": "| Produtividade dos Magistrados----------------------------- | | --- | | Retornar |     | | DESEMBARGADOR------------- | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | JUIZ DE DIREITO DE ENTRANCIA FINAL---------------------------------- | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | JUIZ DE DIREITO DE ENTRANCIA INICIAL------------------------------------ | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | JUIZ DE DIREITO SUBSTITUTO-------------------------- | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | ESTAGIÁRIO DE DIREITO--------------------- | |  |"
+    "descricao": "Dados de produtividade dos magistrados, incluindo categorias como desembargador, juiz de direito de entrância final e inicial, juiz de direito substituto e estagiário de direito."
 }

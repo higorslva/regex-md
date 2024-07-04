@@ -1,19 +1,19 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "Entrar",
+            "opcao_submenu": "Entrar",
             "link": "./?task=auth"
         },
         {
-            "opcao": "![TJAP",
+            "opcao_submenu": "![TJAP",
             "link": "https://old.tjap.jus.br/app/lib/imagens/24/card-address.png"
         },
         {
-            "opcao": "Voltar",
+            "opcao_submenu": "Voltar",
             "link": "https://old.tjap.jus.br/app/lib/imagens/16/arrow-180.png"
         },
         {
-            "opcao": "Imprimir",
+            "opcao_submenu": "Imprimir",
             "link": "https://old.tjap.jus.br/app/lib/imagens/16/printer.png"
         }
     ],

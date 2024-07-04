@@ -1,15 +1,15 @@
 {
-    "opcao_e_link": [
+    "opcao_submenu_e_link": [
         {
-            "opcao": "",
+            "opcao_submenu": "",
             "link": "https://sig.tjap.jus.br/lib/img/scriptcaseNMajaxload.gif"
         },
         {
-            "opcao": "logo",
+            "opcao_submenu": "logo",
             "link": "https://sig.tjap.jus.br/lib/img/logojap.png"
         },
         {
-            "opcao": "www.tjap.jus.br",
+            "opcao_submenu": "www.tjap.jus.br",
             "link": "http://www.tjap.jus.br"
         }
     ],
