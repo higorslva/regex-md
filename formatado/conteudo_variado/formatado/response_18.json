@@ -2,10 +2,10 @@
     "opcao_e_link": [
         {
             "opcao": "Topo",
-            "link": "#"
+            "link": " "
         },
         {
-            "opcao": "**PJe** Processo Judicial Eletrônico",
+            "opcao": "PJe Processo Judicial Eletrônico",
             "link": "https://old.tjap.jus.br/portal/pje"
         },
         {
@@ -14,7 +14,7 @@
         },
         {
             "opcao": "PJeDOC",
-            "link": "https://sig.tjap.jus.br/autentica_md"
+            "link": "https://sig.tjap.jus.br/autenticamd"
         },
         {
             "opcao": "Diário da Justiça Eletrônico",
@@ -22,19 +22,19 @@
         },
         {
             "opcao": "Atos Normativos",
-            "link": "https://sig.tjap.jus.br/ato_normativo/ato_normativo_grid_ato_normativo.php"
+            "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
         },
         {
-            "opcao": "_Sistema de Chamados_",
-            "link": "https://sig.tjap.jus.br/autentica_sos_V2/autentica_sos_V2.php"
+            "opcao": "Sistema de Chamados",
+            "link": "https://sig.tjap.jus.br/autenticasosV2/autenticasosV2.php"
         },
         {
             "opcao": "![Tribunal de Justiça do Estado do Amapá",
-            "link": "https://old.tjap.jus.br/portal/templates/tjap_newlogo/images/logo-tjap-new.png"
+            "link": "https://old.tjap.jus.br/portal/templates/tjapnewlogo/images/logo-tjap-new.png"
         },
         {
-            "opcao": "**Balcão Virtual**",
-            "link": "/portal/atendimento/balcao-virtual.html \"Balcão Virtual\""
+            "opcao": "Balcão Virtual",
+            "link": "https://old.tjap.jus.br/portal/atendimento/balcao-virtual.html \"Balcão Virtual\""
         },
         {
             "opcao": "Acesso em libras",
@@ -42,7 +42,7 @@
         },
         {
             "opcao": "Fotos",
-            "link": "/portal/publicacoes/galeria.html"
+            "link": "https://old.tjap.jus.br/portal/publicacoes/galeria.html"
         },
         {
             "opcao": "Instagram",
@@ -54,7 +54,7 @@
         },
         {
             "opcao": "Twitter",
-            "link": "http://twitter.com/tjap_oficial"
+            "link": "http://twitter.com/tjapoficial"
         },
         {
             "opcao": "Facebook",
@@ -62,15 +62,15 @@
         },
         {
             "opcao": "Gestão Processual",
-            "link": "/gestao_jud"
+            "link": "/gestaojud"
         },
         {
             "opcao": "Gestão Administrativa",
-            "link": "/gestao_adm"
+            "link": "/gestaoadm"
         },
         {
             "opcao": "Intranet",
-            "link": "/portal/intranet"
+            "link": "https://old.tjap.jus.br/portal/intranet"
         },
         {
             "opcao": "Webmail",
@@ -78,23 +78,23 @@
         },
         {
             "opcao": "Início",
-            "link": "/portal/"
+            "link": "https://old.tjap.jus.br/portal/"
         },
         {
             "opcao": "Tucujuris",
-            "link": "/portal/tucujuris.html"
+            "link": "https://old.tjap.jus.br/portal/tucujuris.html"
         },
         {
             "opcao": "histórico",
-            "link": "/portal/histórico.html"
+            "link": "https://old.tjap.jus.br/portal/histórico.html"
         },
         {
             "opcao": "Documentos",
-            "link": "/portal/documentos.html"
+            "link": "https://old.tjap.jus.br/portal/documentos.html"
         },
         {
             "opcao": "Tecnologia",
-            "link": "/portal/tecnologia.html"
+            "link": "https://old.tjap.jus.br/portal/tecnologia.html"
         },
         {
             "opcao": "Perguntas frequentes (FAQ)",
@@ -102,7 +102,7 @@
         },
         {
             "opcao": "Sobre",
-            "link": "/portal/sobre.html"
+            "link": "https://old.tjap.jus.br/portal/sobre.html"
         },
         {
             "opcao": "Tucujuris Web",
@@ -126,19 +126,19 @@
         },
         {
             "opcao": "BacenJud",
-            "link": "/portal/bacenjud.html"
+            "link": "https://old.tjap.jus.br/portal/bacenjud.html"
         },
         {
             "opcao": "Malote Digital",
-            "link": "/portal/malote-digital.html"
+            "link": "https://old.tjap.jus.br/portal/malote-digital.html"
         },
         {
             "opcao": "RenaJud",
-            "link": "/portal/renajud.html"
+            "link": "https://old.tjap.jus.br/portal/renajud.html"
         },
         {
             "opcao": "SerasaJud",
-            "link": "/portal/serasajud.html"
+            "link": "https://old.tjap.jus.br/portal/serasajud.html"
         },
         {
             "opcao": "Processômetro",
@@ -146,7 +146,7 @@
         },
         {
             "opcao": "Situação Processual 2º Grau",
-            "link": "/portal/produtividade-2g.html"
+            "link": "https://old.tjap.jus.br/portal/produtividade-2g.html"
         },
         {
             "opcao": "Audiência de Custódia - CNJ",
@@ -154,47 +154,47 @@
         },
         {
             "opcao": "Indisponibilidade de Sistemas",
-            "link": "/portal/indisponibilidade-de-sistemas.html"
+            "link": "https://old.tjap.jus.br/portal/indisponibilidade-de-sistemas.html"
         },
         {
             "opcao": "Sistemas Conveniados",
-            "link": "/portal/sistemas-conveniados.html"
+            "link": "https://old.tjap.jus.br/portal/sistemas-conveniados.html"
         },
         {
             "opcao": "CCS-Bacen",
-            "link": "/portal/ccs-bacen.html"
+            "link": "https://old.tjap.jus.br/portal/ccs-bacen.html"
         },
         {
             "opcao": "SISBAJUD - Sistema de Busca de Ativos do Poder Judiciário",
-            "link": "/portal/sisbajud.html"
+            "link": "https://old.tjap.jus.br/portal/sisbajud.html"
         },
         {
             "opcao": "INFOJUD - Sistema de Informações ao Judiciário",
-            "link": "/portal/infojud.html"
+            "link": "https://old.tjap.jus.br/portal/infojud.html"
         },
         {
             "opcao": "CNIB - Central Nacional de Indisponibilidade de Bens",
-            "link": "/portal/cnib.html"
+            "link": "https://old.tjap.jus.br/portal/cnib.html"
         },
         {
             "opcao": "SIEL - Sistema de Informações Eleitorais",
-            "link": "/portal/siel.html"
+            "link": "https://old.tjap.jus.br/portal/siel.html"
         },
         {
             "opcao": "Comissão de Informatização",
-            "link": "/portal/comissão-de-informatização.html"
+            "link": "https://old.tjap.jus.br/portal/comissão-de-informatização.html"
         },
         {
             "opcao": "Secretaria de Gestão Processual",
-            "link": "/portal/secretaria-de-gestão-processual.html"
+            "link": "https://old.tjap.jus.br/portal/secretaria-de-gestão-processual.html"
         },
         {
             "opcao": "Divisão de Sistemas Judiciários",
-            "link": "/portal/divisão-de-sistemas-judiciários.html"
+            "link": "https://old.tjap.jus.br/portal/divisão-de-sistemas-judiciários.html"
         },
         {
             "opcao": "Suporte Técnico",
-            "link": "/portal/suporte-técnico.html"
+            "link": "https://old.tjap.jus.br/portal/suporte-técnico.html"
         },
         {
             "opcao": "![Selo Ouro CNJ",
@@ -202,7 +202,7 @@
         },
         {
             "opcao": "![Selo 28 Anos TJAP",
-            "link": "https://old.tjap.jus.br/portal/images/stories/selo_30_anos_tjap.png?force"
+            "link": "https://old.tjap.jus.br/portal/images/stories/selo30anostjap.png?force"
         },
         {
             "opcao": "![Sessões online",
@@ -214,7 +214,7 @@
         },
         {
             "opcao": "Conheça nossa Política de Privacidade, Cookies e a Lei Geral de Proteção de Dados Pessoais - LGPD",
-            "link": "#"
+            "link": " "
         },
         {
             "opcao": "![Gestão participativa",
@@ -226,25 +226,25 @@
         },
         {
             "opcao": "Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.",
-            "link": "https://vlibras.gov.br/app//assets/access_icon.svg"
+            "link": "https://vlibras.gov.br/app//assets/accessicon.svg"
         },
         {
             "opcao": "Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.",
-            "link": "https://vlibras.gov.br/app//assets/access_popup.jpg"
+            "link": "https://vlibras.gov.br/app//assets/accesspopup.jpg"
         },
         {
             "opcao": "",
-            "link": "https://old.tjap.jus.br/_lib/img/scriptcase__NM__ajax_load.gif"
+            "link": "https://old.tjap.jus.br/lib/img/scriptcaseNMajaxload.gif"
         },
         {
             "opcao": "...",
-            "link": "https://old.tjap.jus.br/_lib/img/scriptcase__NM__minimalist_calendar.png%20%22...%22"
+            "link": "https://old.tjap.jus.br/lib/img/scriptcaseNMminimalistcalendar.png%20%22...%22"
         },
         {
             "opcao": "...",
-            "link": "https://old.tjap.jus.br/_lib/img/scriptcase__NM__minimalist_calendar.png%20%22...%22"
+            "link": "https://old.tjap.jus.br/lib/img/scriptcaseNMminimalistcalendar.png%20%22...%22"
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/portal/indisponibilidade-de-sistemas.html",
-    "descricao": "\n\n×\n\nO Presidente do Tribunal de Justiça do Estado do Amapá informa que a partir do dia 12 de janeiro de 2023 o sistema PJe será expandido para novos processos dos Juizados Especiais Cíveis da Comarca de Macapá, conforme Atos Conjuntos nº 564/2020-GP/CGJ, 643/2022-GP/CGJ e a Portaria nº 67516/2023-GP.\n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n](https://www.tjap.jus.br/portal)\n\n*   \n    \n*   Pesquisar...\n    \n     Pesquisar\n    \n      \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\nTribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21  \nRua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP  \nFone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.  \n\n ](/portal/publicacoes/noticias/11475-compromisso-e-empenho-de-magistrados-e-servidores-asseguram-ouro-no-pr%C3%AAmio-cnj-de-qualidade-para-a-justi%C3%A7a-do-amap%C3%A1.html \"Selo Ouro CNJ\")\n](/portal/publicacoes/noticias/11612-sess%C3%A3o-solene-que-marca-os-30-anos-da-justi%C3%A7a-re%C3%BAne-magistrados,-servidores-e-autoridades.html \"Selo 30 anos\")\n](/portal/publicacoes/sessoes-online.html \"Sessões Online\")\n](/portal/publicacoes/noticias/13624-parceiro-digital-programa-da-justi%C3%A7a-do-amap%C3%A1-expande-acesso-digital-ao-cidad%C3%A3o-e-ganha-as-ruas-de-macap%C3%A1.html \"Parceiro Digital\")\n\nEntendi\n\nO Tribunal de Justiça do Estado do Amapá utiliza cookies em seu portal e Aplicativos para controle de navegação no site e geração de informações estatísticas, os quais são armazenados apenas em caráter temporário para melhorar a experiência do usuário. Ao utilizar nossos serviços, você concorda com esse monitoramento. \n\n×\n\n  \\\nResponda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)\n\n!\n\n! !\n\n \n\n|     |\n| --- |\n| Atenção |\n|     |\n\n  \n\nProcessando Aguarde...\n\n ! Processando Aguarde...\n\n|     |     |\n| --- | --- |\n| Consulta de Ocorrências e Indisponibilidade |     |\n\nData InícioTodo o período Últimos 7 dias Últimos 6 meses Últimos 12 meses Últimos 18 meses Ano corrente Trimestre corrente até hoje Trimestre corrente Este mês Este mês até hoje Últimos 3 meses a partir de hoje Igual a Intervalo01/04/2024 20/06/2024\n\n|     |\n| --- |\n| ! dd/mm/aaaa |\n| ! |\n\n \n\n|     |     |     |\n| --- | --- | --- |\n|     | Pesquisa Limpar Sair |     |"
+    "descricao": "  ×  O Presidente do Tribunal de Justiça do Estado do Amapá informa que a partir do dia 12 de janeiro de 2023 o sistema PJe será expandido para novos processos dos Juizados Especiais Cíveis da Comarca de Macapá, conforme Atos Conjuntos nº 564/2020-GP/CGJ, 643/2022-GP/CGJ e a Portaria nº 67516/2023-GP.                                                         ](https://www.tjap.jus.br/portal)              Pesquisar...           Pesquisar                                                                                                                                                                                                                                                                                                                                                                                                Tribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21   Rua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP   Fone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.     ](https://old.tjap.jus.br/portal/publicacoes/noticias/11475-compromisso-e-empenho-de-magistrados-e-servidores-asseguram-ouro-no-pr%C3%AAmio-cnj-de-qualidade-para-a-justi%C3%A7a-do-amap%C3%A1.html \"Selo Ouro CNJ\") ](https://old.tjap.jus.br/portal/publicacoes/noticias/11612-sess%C3%A3o-solene-que-marca-os-30-anos-da-justi%C3%A7a-re%C3%BAne-magistrados,-servidores-e-autoridades.html \"Selo 30 anos\") ](https://old.tjap.jus.br/portal/publicacoes/sessoes-online.html \"Sessões Online\") ](https://old.tjap.jus.br/portal/publicacoes/noticias/13624-parceiro-digital-programa-da-justi%C3%A7a-do-amap%C3%A1-expande-acesso-digital-ao-cidad%C3%A3o-e-ganha-as-ruas-de-macap%C3%A1.html \"Parceiro Digital\")  Entendi  O Tribunal de Justiça do Estado do Amapá utiliza cookies em seu portal e Aplicativos para controle de navegação no site e geração de informações estatísticas, os quais são armazenados apenas em caráter temporário para melhorar a experiência do usuário. Ao utilizar nossos serviços, você concorda com esse monitoramento.   ×    \\ Responda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)  !  ! !     |     | | --- | | Atenção | |     |      Processando Aguarde...   ! Processando Aguarde...  |     |     | | --- | --- | | Consulta de Ocorrências e Indisponibilidade |     |  Data InícioTodo o período Últimos 7 dias Últimos 6 meses Últimos 12 meses Últimos 18 meses Ano corrente Trimestre corrente até hoje Trimestre corrente Este mês Este mês até hoje Últimos 3 meses a partir de hoje Igual a Intervalo01/04/2024 20/06/2024  |     | | --- | | ! dd/mm/aaaa | | ! |     |     |     |     | | --- | --- | --- | |     | Pesquisa Limpar Sair |     |"
 }

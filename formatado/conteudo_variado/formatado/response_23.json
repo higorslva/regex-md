@@ -2,10 +2,10 @@
     "opcao_e_link": [
         {
             "opcao": "Topo",
-            "link": "#"
+            "link": " "
         },
         {
-            "opcao": "**PJe** Processo Judicial Eletrônico",
+            "opcao": "PJe Processo Judicial Eletrônico",
             "link": "https://old.tjap.jus.br/portal/pje"
         },
         {
@@ -14,7 +14,7 @@
         },
         {
             "opcao": "PJeDOC",
-            "link": "https://sig.tjap.jus.br/autentica_md"
+            "link": "https://sig.tjap.jus.br/autenticamd"
         },
         {
             "opcao": "Diário da Justiça Eletrônico",
@@ -22,19 +22,19 @@
         },
         {
             "opcao": "Atos Normativos",
-            "link": "https://sig.tjap.jus.br/ato_normativo/ato_normativo_grid_ato_normativo.php"
+            "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
         },
         {
-            "opcao": "_Sistema de Chamados_",
-            "link": "https://sig.tjap.jus.br/autentica_sos_V2/autentica_sos_V2.php"
+            "opcao": "Sistema de Chamados",
+            "link": "https://sig.tjap.jus.br/autenticasosV2/autenticasosV2.php"
         },
         {
             "opcao": "![Tribunal de Justiça do Estado do Amapá",
-            "link": "https://old.tjap.jus.br/portal/templates/tjap_newlogo/images/logo-tjap-new.png"
+            "link": "https://old.tjap.jus.br/portal/templates/tjapnewlogo/images/logo-tjap-new.png"
         },
         {
-            "opcao": "**Balcão Virtual**",
-            "link": "/portal/atendimento/balcao-virtual.html \"Balcão Virtual\""
+            "opcao": "Balcão Virtual",
+            "link": "https://old.tjap.jus.br/portal/atendimento/balcao-virtual.html \"Balcão Virtual\""
         },
         {
             "opcao": "Acesso em libras",
@@ -42,7 +42,7 @@
         },
         {
             "opcao": "Fotos",
-            "link": "/portal/publicacoes/galeria.html"
+            "link": "https://old.tjap.jus.br/portal/publicacoes/galeria.html"
         },
         {
             "opcao": "Instagram",
@@ -54,7 +54,7 @@
         },
         {
             "opcao": "Twitter",
-            "link": "http://twitter.com/tjap_oficial"
+            "link": "http://twitter.com/tjapoficial"
         },
         {
             "opcao": "Facebook",
@@ -62,15 +62,15 @@
         },
         {
             "opcao": "Gestão Processual",
-            "link": "/gestao_jud"
+            "link": "/gestaojud"
         },
         {
             "opcao": "Gestão Administrativa",
-            "link": "/gestao_adm"
+            "link": "/gestaoadm"
         },
         {
             "opcao": "Intranet",
-            "link": "/portal/intranet"
+            "link": "https://old.tjap.jus.br/portal/intranet"
         },
         {
             "opcao": "Webmail",
@@ -82,11 +82,11 @@
         },
         {
             "opcao": "![Partner Logo",
-            "link": "https://old.tjap.jus.br/portal/images/Life_fit.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/Lifefit.jpg"
         },
         {
             "opcao": "![Escola Minds Logo",
-            "link": "https://old.tjap.jus.br/portal/images/Minds_Logo.png"
+            "link": "https://old.tjap.jus.br/portal/images/MindsLogo.png"
         },
         {
             "opcao": "![Escola KNN Logo",
@@ -94,11 +94,11 @@
         },
         {
             "opcao": "![Academia T30 Logo",
-            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/degesp/intranet/Espaco_Servidor/Clube_Descontos/T30_Intensity/T-30-logo.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/degesp/intranet/EspacoServidor/ClubeDescontos/T30Intensity/T-30-logo.jpg"
         },
         {
             "opcao": "![Escola Lagoa Logo",
-            "link": "https://old.tjap.jus.br/portal/images/Logo_Eco.jpeg"
+            "link": "https://old.tjap.jus.br/portal/images/LogoEco.jpeg"
         },
         {
             "opcao": "![Loja Gold Casa Logo",
@@ -110,31 +110,31 @@
         },
         {
             "opcao": "![Escola Tempo de Brincar Logo",
-            "link": "https://old.tjap.jus.br/portal/images/LOGOMARCA_ESCOLA.png"
+            "link": "https://old.tjap.jus.br/portal/images/LOGOMARCAESCOLA.png"
         },
         {
             "opcao": "![Colegio Adventista Logo",
-            "link": "https://old.tjap.jus.br/portal/images/unnamed_1.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/unnamed1.jpg"
         },
         {
             "opcao": "![Colegio Adventista Logo",
-            "link": "https://old.tjap.jus.br/portal/images/420853478_874275148035776_8490879457880385309_n.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/4208534788742751480357768490879457880385309n.jpg"
         },
         {
             "opcao": "Resolução nº 1488/2021-TJAP",
-            "link": "/portal/images/stories/documentos/degesp/convenios/1468-2021-TJAP_-_PROGRAMA_CLUBE_DE_DESCONTOS_ESPECIAIS_CONSOLIDADAS.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/degesp/convenios/1468-2021-TJAP-PROGRAMACLUBEDEDESCONTOSESPECIAISCONSOLIDADAS.pdf"
         },
         {
             "opcao": "Check-list de documentos",
-            "link": "/portal/images/Clube_de_Descontos/Check-list_documentos.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/ClubedeDescontos/Check-listdocumentos.pdf"
         },
         {
             "opcao": "Termo de adesão",
-            "link": "/portal/images/Clube_de_Descontos/TERMO_DE_ADESAO_-_CLUBE_DE_DESCONTOS.docx"
+            "link": "https://old.tjap.jus.br/portal/images/ClubedeDescontos/TERMODEADESAO-CLUBEDEDESCONTOS.docx"
         },
         {
             "opcao": "Termo de credenciamento",
-            "link": "/portal/images/Clube_de_Descontos/Termo_de_Credenciamento_-_Clube_de_Descontos.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/ClubedeDescontos/TermodeCredenciamento-ClubedeDescontos.pdf"
         },
         {
             "opcao": "![Selo Ouro CNJ",
@@ -142,7 +142,7 @@
         },
         {
             "opcao": "![Selo 28 Anos TJAP",
-            "link": "https://old.tjap.jus.br/portal/images/stories/selo_30_anos_tjap.png?force"
+            "link": "https://old.tjap.jus.br/portal/images/stories/selo30anostjap.png?force"
         },
         {
             "opcao": "![Sessões online",
@@ -154,7 +154,7 @@
         },
         {
             "opcao": "Conheça nossa Política de Privacidade, Cookies e a Lei Geral de Proteção de Dados Pessoais - LGPD",
-            "link": "#"
+            "link": " "
         },
         {
             "opcao": "![Gestão participativa",
@@ -166,13 +166,13 @@
         },
         {
             "opcao": "Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.",
-            "link": "https://vlibras.gov.br/app//assets/access_icon.svg"
+            "link": "https://vlibras.gov.br/app//assets/accessicon.svg"
         },
         {
             "opcao": "Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.",
-            "link": "https://vlibras.gov.br/app//assets/access_popup.jpg"
+            "link": "https://vlibras.gov.br/app//assets/accesspopup.jpg"
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14.html",
-    "descricao": "\n\n×\n\nO Presidente do Tribunal de Justiça do Estado do Amapá informa que a partir do dia 12 de janeiro de 2023 o sistema PJe será expandido para novos processos dos Juizados Especiais Cíveis da Comarca de Macapá, conforme Atos Conjuntos nº 564/2020-GP/CGJ, 643/2022-GP/CGJ e a Portaria nº 67516/2023-GP.\n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n](https://www.tjap.jus.br/portal)\n\n*   \n    \n*   Pesquisar...\n    \n     Pesquisar\n    \n      \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n!\n\nEMPRESAS CREDENCIADAS\n---------------------\n\n](/portal/degesp-convenios/lista-conv%C3%AAnios/13563-academia-life-fit.html)\n\nAcademia Life Fit\n\n](/portal/degesp-convenios/lista-conv%C3%AAnios/6116-escola-minds.html)\n\nEscola Minds\n\n](/portal/degesp-convenios/lista-conv%C3%AAnios/13564-knn.html)\n\nEscola KNN\n\n](/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13916-academia-t-30-intensity.html)\n\nAcademia T30\n\n](/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13929-eco-escola-lagoa.html)\n\nEscola Lagoa\n\n](/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13930-gold-casa.html)\n\nLoja Gold Casa\n\n](/portal/degesp-convenios/lista-conv%C3%AAnios/13565-mercadao-oculos.html)\n\nMercadão dos Oculos\n\n](/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13987-tempo-de-brincar.html)\n\nEscola Tempo de Brincar\n\n](/portal/2015-12-17-18-59-56/2022-07-14.html?layout=edit&id=14007)\n\nColegio Adventista\n\n](/portal/2015-12-17-18-59-56/2022-07-14/17-tjap/14020-papelaria-alemdalenda.html)\n\nPapelaria Alemdalenda\n\n### TERMOS\n\nResolução que regulamenta o Clube de Descontos:\n\n\n\nDocumentação para redenciamento no Clube de Descontos\n\n*   \n    \n*   \n    \n*   \n    \n\nTribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21  \nRua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP  \nFone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.  \n\n ](/portal/publicacoes/noticias/11475-compromisso-e-empenho-de-magistrados-e-servidores-asseguram-ouro-no-pr%C3%AAmio-cnj-de-qualidade-para-a-justi%C3%A7a-do-amap%C3%A1.html \"Selo Ouro CNJ\")\n](/portal/publicacoes/noticias/11612-sess%C3%A3o-solene-que-marca-os-30-anos-da-justi%C3%A7a-re%C3%BAne-magistrados,-servidores-e-autoridades.html \"Selo 30 anos\")\n](/portal/publicacoes/sessoes-online.html \"Sessões Online\")\n](/portal/publicacoes/noticias/13624-parceiro-digital-programa-da-justi%C3%A7a-do-amap%C3%A1-expande-acesso-digital-ao-cidad%C3%A3o-e-ganha-as-ruas-de-macap%C3%A1.html \"Parceiro Digital\")\n\nEntendi\n\nO Tribunal de Justiça do Estado do Amapá utiliza cookies em seu portal e Aplicativos para controle de navegação no site e geração de informações estatísticas, os quais são armazenados apenas em caráter temporário para melhorar a experiência do usuário. Ao utilizar nossos serviços, você concorda com esse monitoramento. \n\n×\n\n  \\\nResponda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)\n\n!\n\n! !"
+    "descricao": "  ×  O Presidente do Tribunal de Justiça do Estado do Amapá informa que a partir do dia 12 de janeiro de 2023 o sistema PJe será expandido para novos processos dos Juizados Especiais Cíveis da Comarca de Macapá, conforme Atos Conjuntos nº 564/2020-GP/CGJ, 643/2022-GP/CGJ e a Portaria nº 67516/2023-GP.                                                         ](https://www.tjap.jus.br/portal)              Pesquisar...           Pesquisar                                                                                                               !  EMPRESAS CREDENCIADAS ---------------------  ](https://old.tjap.jus.br/portal/degesp-convenios/lista-conv%C3%AAnios/13563-academia-life-fit.html)  Academia Life Fit  ](https://old.tjap.jus.br/portal/degesp-convenios/lista-conv%C3%AAnios/6116-escola-minds.html)  Escola Minds  ](https://old.tjap.jus.br/portal/degesp-convenios/lista-conv%C3%AAnios/13564-knn.html)  Escola KNN  ](https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13916-academia-t-30-intensity.html)  Academia T30  ](https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13929-eco-escola-lagoa.html)  Escola Lagoa  ](https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13930-gold-casa.html)  Loja Gold Casa  ](https://old.tjap.jus.br/portal/degesp-convenios/lista-conv%C3%AAnios/13565-mercadao-oculos.html)  Mercadão dos Oculos  ](https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14/51-tjap/intranet/sgp/13987-tempo-de-brincar.html)  Escola Tempo de Brincar  ](https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14.html?layout=edit&id=14007)  Colegio Adventista  ](https://old.tjap.jus.br/portal/2015-12-17-18-59-56/2022-07-14/17-tjap/14020-papelaria-alemdalenda.html)  Papelaria Alemdalenda      TERMOS  Resolução que regulamenta o Clube de Descontos:    Documentação para redenciamento no Clube de Descontos                              Tribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21   Rua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP   Fone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.     ](https://old.tjap.jus.br/portal/publicacoes/noticias/11475-compromisso-e-empenho-de-magistrados-e-servidores-asseguram-ouro-no-pr%C3%AAmio-cnj-de-qualidade-para-a-justi%C3%A7a-do-amap%C3%A1.html \"Selo Ouro CNJ\") ](https://old.tjap.jus.br/portal/publicacoes/noticias/11612-sess%C3%A3o-solene-que-marca-os-30-anos-da-justi%C3%A7a-re%C3%BAne-magistrados,-servidores-e-autoridades.html \"Selo 30 anos\") ](https://old.tjap.jus.br/portal/publicacoes/sessoes-online.html \"Sessões Online\") ](https://old.tjap.jus.br/portal/publicacoes/noticias/13624-parceiro-digital-programa-da-justi%C3%A7a-do-amap%C3%A1-expande-acesso-digital-ao-cidad%C3%A3o-e-ganha-as-ruas-de-macap%C3%A1.html \"Parceiro Digital\")  Entendi  O Tribunal de Justiça do Estado do Amapá utiliza cookies em seu portal e Aplicativos para controle de navegação no site e geração de informações estatísticas, os quais são armazenados apenas em caráter temporário para melhorar a experiência do usuário. Ao utilizar nossos serviços, você concorda com esse monitoramento.   ×    \\ Responda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)  !  ! !"
 }

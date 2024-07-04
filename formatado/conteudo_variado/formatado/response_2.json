@@ -2,7 +2,7 @@
     "opcao_e_link": [
         {
             "opcao": "![Tribunal de Justiça do Estado do Amapá",
-            "link": "https://old.tjap.jus.br/portal/templates/tjap_cgj/images/logo-cgj.png"
+            "link": "https://old.tjap.jus.br/portal/templates/tjapcgj/images/logo-cgj.png"
         },
         {
             "opcao": "PJeCOR",
@@ -14,7 +14,7 @@
         },
         {
             "opcao": "",
-            "link": "https://sig.tjap.jus.br/autentica_md"
+            "link": "https://sig.tjap.jus.br/autenticamd"
         },
         {
             "opcao": "",
@@ -22,7 +22,7 @@
         },
         {
             "opcao": "",
-            "link": "http://sig.tjap.jus.br/ato_normativo/ato_normativo_grid_ato_normativo.php"
+            "link": "http://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
         },
         {
             "opcao": "",
@@ -30,11 +30,11 @@
         },
         {
             "opcao": "",
-            "link": "https://sig.tjap.jus.br/autentica_suporte/autentica_suporte.php"
+            "link": "https://sig.tjap.jus.br/autenticasuporte/autenticasuporte.php"
         },
         {
             "opcao": "",
-            "link": "https://sig.tjap.jus.br/autentica_sos_V2/autentica_sos_V2.php"
+            "link": "https://sig.tjap.jus.br/autenticasosV2/autenticasosV2.php"
         },
         {
             "opcao": "",
@@ -42,7 +42,7 @@
         },
         {
             "opcao": "",
-            "link": "/portal/intranet"
+            "link": "https://old.tjap.jus.br/portal/intranet"
         },
         {
             "opcao": "",
@@ -50,15 +50,15 @@
         },
         {
             "opcao": "Gestão Processual",
-            "link": "/gestao_jud"
+            "link": "/gestaojud"
         },
         {
             "opcao": "Gestão Administrativa",
-            "link": "/gestao_adm"
+            "link": "/gestaoadm"
         },
         {
             "opcao": "Intranet",
-            "link": "/portal/intranet"
+            "link": "https://old.tjap.jus.br/portal/intranet"
         },
         {
             "opcao": "Webmail",
@@ -66,15 +66,15 @@
         },
         {
             "opcao": "Composição",
-            "link": "/portal/cgj2-institucional/consultas.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-institucional/consultas.html"
         },
         {
             "opcao": "Órgãos Auxiliares",
-            "link": "/portal/cgj2-institucional/orgãos-auxiliares.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-institucional/orgãos-auxiliares.html"
         },
         {
             "opcao": "Cooperação Judiciária",
-            "link": "/portal/cgj2-institucional/cooperação-jud-cor.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-institucional/cooperação-jud-cor.html"
         },
         {
             "opcao": "Localização de Juízes",
@@ -82,47 +82,47 @@
         },
         {
             "opcao": "Juízes Corregedores Permanentes",
-            "link": "/portal/cgj2-institucional/cgj2-juizespermanentes.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-institucional/cgj2-juizespermanentes.html"
         },
         {
             "opcao": "CEJA",
-            "link": "/portal/cgj2-institucional/cgj2-ceja.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-institucional/cgj2-ceja.html"
         },
         {
             "opcao": "Atos Normativos",
-            "link": "https://sig.tjap.jus.br/ato_normativo/ato_normativo_grid_ato_normativo.php"
+            "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
         },
         {
             "opcao": "Lei de Organização Judiciária",
-            "link": "/portal/images/stories/documentos/CHECK-LIST/GAB-PRESIDENCIA/decreto_069_1991_atualizado_ate_lei_099_2016.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/CHECK-LIST/GAB-PRESIDENCIA/decreto0691991atualizadoatelei0992016.pdf"
         },
         {
             "opcao": "Regimento Interno",
-            "link": "/portal/images/stories/documentos/CHECK-LIST/GAB-PRESIDENCIA/ri_tjap_atualizado_ate_res_1263_2018.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/CHECK-LIST/GAB-PRESIDENCIA/ritjapatualizadoateres12632018.pdf"
         },
         {
             "opcao": "Juízes",
-            "link": "/portal/juizes/afericao-de-merecimento.html"
+            "link": "https://old.tjap.jus.br/portal/juizes/afericao-de-merecimento.html"
         },
         {
             "opcao": "Provimento Geral da Corregedoria",
-            "link": "/portal/images/stories/documentos/CHECK-LIST/CORREGEDORIA/provimento_310_16-provimento_geral_corregedoria.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/CHECK-LIST/CORREGEDORIA/provimento31016-provimentogeralcorregedoria.pdf"
         },
         {
             "opcao": "Regimento Interno da Corregedoria",
-            "link": "/portal/images/stories/documentos/CHECK-LIST/CORREGEDORIA/provimento_138_07-regimento_interno_corregedoria.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/CHECK-LIST/CORREGEDORIA/provimento13807-regimentointernocorregedoria.pdf"
         },
         {
             "opcao": "Comarcas",
-            "link": "/portal/cgj2-comarcas/cgj2-item.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-comarcas/cgj2-item.html"
         },
         {
             "opcao": "Organograma do 1º Grau",
-            "link": "/portal/cgj2-comarcas/cgj2-item-3.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-comarcas/cgj2-item-3.html"
         },
         {
             "opcao": "Turma Recursal",
-            "link": "/portal/turma-recursal/2013-04-17-07-00-50.html"
+            "link": "https://old.tjap.jus.br/portal/turma-recursal/2013-04-17-07-00-50.html"
         },
         {
             "opcao": "Judicial - 1º Grau",
@@ -130,23 +130,23 @@
         },
         {
             "opcao": "Extrajudicial",
-            "link": "/portal/cgj2-plantoes/cgj2-plantao-2.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-plantoes/cgj2-plantao-2.html"
         },
         {
             "opcao": "Cartórios do Amapá",
-            "link": "/portal/cgj2-portalextrajuducial/cgj2-cartorios.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-portalextrajuducial/cgj2-cartorios.html"
         },
         {
             "opcao": "Legislação Específica",
-            "link": "/portal/home-cartorios-extrajudiciais/legislação-específica.html"
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/legislação-específica.html"
         },
         {
             "opcao": "Consulta de Jurisprudência",
-            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-jurisprudencia/consultar-jurisprudencia.html?tipo_jurisprudencia=99"
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-jurisprudencia/consultar-jurisprudencia.html?tipojurisprudencia=99"
         },
         {
             "opcao": "Consulta de Reclamações",
-            "link": "https://sig.tjap.jus.br/cartorios_extrajudiciais_reclamacoes/ouvidoria_grid_estatistica_tp_reclamacoes_site.php"
+            "link": "https://sig.tjap.jus.br/cartoriosextrajudiciaisreclamacoes/ouvidoriagridestatisticatpreclamacoessite.php"
         },
         {
             "opcao": "Consulta do Selo Eletrônico",
@@ -162,27 +162,27 @@
         },
         {
             "opcao": "FERC - PORTAL",
-            "link": "/portal/cgj2-portalextrajuducial/sistema-do-selo-eletrônico-2.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-portalextrajuducial/sistema-do-selo-eletrônico-2.html"
         },
         {
             "opcao": "veja mais notícias",
-            "link": "/portal/publicacoes/noticias.html"
+            "link": "https://old.tjap.jus.br/portal/publicacoes/noticias.html"
         },
         {
             "opcao": "![TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição",
-            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-comendamilitares_1.jpg \"TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição\""
+            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-comendamilitares1.jpg \"TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição\""
         },
         {
             "opcao": "![Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá ",
-            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-competenciasecsaoecamaraunica_1_370x230.jpg \"Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá \""
+            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-competenciasecsaoecamaraunica1370x230.jpg \"Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá \""
         },
         {
             "opcao": "![Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas",
-            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-audienciafinalizajuizalaura_1.JPG \"Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas\""
+            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-audienciafinalizajuizalaura1.JPG \"Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas\""
         },
         {
             "opcao": "![Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19",
-            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-juizaliviaencerramessetembrojuris_1.JPG \"Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19\""
+            "link": "https://old.tjap.jus.br/portal/cache/lofthumbs/650x300-juizaliviaencerramessetembrojuris1.JPG \"Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19\""
         },
         {
             "opcao": "![Portal do TJAP entra em manutenção nesta sexta-feira (30) para implementação de novo layout com foco nos serviços, leveza e simplicidade",
@@ -190,19 +190,19 @@
         },
         {
             "opcao": "![Programa de Residência Jurídica",
-            "link": "https://old.tjap.jus.br/portal/images/residencia_juridica.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/residenciajuridica.jpg"
         },
         {
             "opcao": "![7º ENCONTRO DO COLÉGIO DE OUVIDORES JUDICIAIS",
-            "link": "https://old.tjap.jus.br/portal/images/7_encontro_do_colegio_de_ouvidores_judiciais_2022_AP.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/7encontrodocolegiodeouvidoresjudiciais2022AP.jpg"
         },
         {
             "opcao": "![BALCÃO VIRTUAL",
-            "link": "https://old.tjap.jus.br/portal/images/BALCAO_VIRTUAL_TJAP.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/BALCAOVIRTUALTJAP.jpg"
         },
         {
             "opcao": "![Telefone para contato com as unidades judiciárias",
-            "link": "https://old.tjap.jus.br/portal/images/TELEFONE_UNIDADES_JUDICIARIAS_OK.jpg"
+            "link": "https://old.tjap.jus.br/portal/images/TELEFONEUNIDADESJUDICIARIASOK.jpg"
         },
         {
             "opcao": "![Plano de Gestão 2021-2022",
@@ -210,11 +210,11 @@
         },
         {
             "opcao": "EMOLUMENTOS DOS CARTÓRIOS",
-            "link": "/portal/home-cartorios-extrajudiciais/tabela-de-emolumentos.html"
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/tabela-de-emolumentos.html"
         },
         {
             "opcao": "Corregedoria Antigo",
-            "link": "/portal/component/content/article.html?id=184&Itemid=168"
+            "link": "https://old.tjap.jus.br/portal/component/content/article.html?id=184&Itemid=168"
         },
         {
             "opcao": "![1º Oficio de Notas de Macapá | Cartorio Juca Cruz",
@@ -238,7 +238,7 @@
         },
         {
             "opcao": "AGENDA 2030 Desenvolvimento Sustentável",
-            "link": "/portal/agenda-2030"
+            "link": "https://old.tjap.jus.br/portal/agenda-2030"
         },
         {
             "opcao": "![Associação dos Notários e Registradores do Brasil",
@@ -298,7 +298,7 @@
         },
         {
             "opcao": "AGENDA 2030 Desenvolvimento Sustentável",
-            "link": "/portal/agenda-2030"
+            "link": "https://old.tjap.jus.br/portal/agenda-2030"
         },
         {
             "opcao": "![Associação dos Notários e Registradores do Brasil",
@@ -358,35 +358,35 @@
         },
         {
             "opcao": "Portal da Corregedoria",
-            "link": "/portal/corregedoria.html"
+            "link": "https://old.tjap.jus.br/portal/corregedoria.html"
         },
         {
             "opcao": "Institucional",
-            "link": "/portal/corregedoria/corregedoria-institucional.html"
+            "link": "https://old.tjap.jus.br/portal/corregedoria/corregedoria-institucional.html"
         },
         {
             "opcao": "Comarcas",
-            "link": "/portal/corregedoria/corregedoria-comarcas.html"
+            "link": "https://old.tjap.jus.br/portal/corregedoria/corregedoria-comarcas.html"
         },
         {
             "opcao": "Consultas",
-            "link": "/portal/corregedoria/consultas-corregedoria.html"
+            "link": "https://old.tjap.jus.br/portal/corregedoria/consultas-corregedoria.html"
         },
         {
             "opcao": "Ouvidoria",
-            "link": "/portal/ouvidoria/canais-de-acesso-ouvidorias.html"
+            "link": "https://old.tjap.jus.br/portal/ouvidoria/canais-de-acesso-ouvidorias.html"
         },
         {
             "opcao": "Serviços",
-            "link": "/portal/servicos-corregedoria.html"
+            "link": "https://old.tjap.jus.br/portal/servicos-corregedoria.html"
         },
         {
             "opcao": "Sistemas Internos",
-            "link": "/portal/servicos-corregedoria/sistemas-internos.html"
+            "link": "https://old.tjap.jus.br/portal/servicos-corregedoria/sistemas-internos.html"
         },
         {
             "opcao": "Atos normativos",
-            "link": "https://sig.tjap.jus.br/ato_normativo/ato_normativo_grid_ato_normativo.php"
+            "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
         },
         {
             "opcao": "Consulta de Processos",
@@ -398,11 +398,11 @@
         },
         {
             "opcao": "Plantões Extrajudicias",
-            "link": "/portal/servicos-corregedoria/plantões-extrajudicias.html"
+            "link": "https://old.tjap.jus.br/portal/servicos-corregedoria/plantões-extrajudicias.html"
         },
         {
             "opcao": "Legislação Específica",
-            "link": "/portal/servicos-corregedoria/legislação-específica.html"
+            "link": "https://old.tjap.jus.br/portal/servicos-corregedoria/legislação-específica.html"
         },
         {
             "opcao": "Consulta de Jurisprudência",
@@ -414,11 +414,11 @@
         },
         {
             "opcao": "Fale Conosco",
-            "link": "/portal/contatos-corregedoria/fale-conosco.html"
+            "link": "https://old.tjap.jus.br/portal/contatos-corregedoria/fale-conosco.html"
         },
         {
             "opcao": "Avisos/Comunicados",
-            "link": "/portal/contatos-corregedoria/avisos-comunicados.html"
+            "link": "https://old.tjap.jus.br/portal/contatos-corregedoria/avisos-comunicados.html"
         },
         {
             "opcao": "Localização de Juizes",
@@ -426,55 +426,55 @@
         },
         {
             "opcao": "Correições",
-            "link": "/portal/contatos-corregedoria/correicoes.html"
+            "link": "https://old.tjap.jus.br/portal/contatos-corregedoria/correicoes.html"
         },
         {
             "opcao": "PJ-e Processo Judicial Eletrônico",
-            "link": "/portal/contatos-corregedoria/pje.html"
+            "link": "https://old.tjap.jus.br/portal/contatos-corregedoria/pje.html"
         },
         {
             "opcao": "Custas Processuais",
-            "link": "/portal/custas-em-geral.html"
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral.html"
         },
         {
             "opcao": "Painel de Produtividade",
-            "link": "https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvw_l%2FPainelCNJ.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shPDPrincipal"
+            "link": "https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvwl%2FPainelCNJ.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shPDPrincipal"
         },
         {
             "opcao": "Cumprimento de Metas",
-            "link": "https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvw_l%2FPainelCNJ.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shMNRespostas"
+            "link": "https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvwl%2FPainelCNJ.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shMNRespostas"
         },
         {
             "opcao": "Clima Organizacional",
-            "link": "/portal/images/stories/documentos/CHECK-LIST/GAB-PRESIDENCIA/FaleaoTJAP_internet.pdf"
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/CHECK-LIST/GAB-PRESIDENCIA/FaleaoTJAPinternet.pdf"
         },
         {
             "opcao": "Certidões",
-            "link": "/portal/painel-de-produtividade/certidões.html"
+            "link": "https://old.tjap.jus.br/portal/painel-de-produtividade/certidões.html"
         },
         {
             "opcao": "Agenda 2030",
-            "link": "/portal/agenda-2030.html"
+            "link": "https://old.tjap.jus.br/portal/agenda-2030.html"
         },
         {
             "opcao": "Juízes Corregedores Permanentes",
-            "link": "/portal/juízes-corregedores-permanentes.html"
+            "link": "https://old.tjap.jus.br/portal/juízes-corregedores-permanentes.html"
         },
         {
             "opcao": "Atividade Correcional e Inspeção Extrajudicial",
-            "link": "/portal/juízes-corregedores-permanentes/atividade-correcional-e-inspeção-extrajudicial.html"
+            "link": "https://old.tjap.jus.br/portal/juízes-corregedores-permanentes/atividade-correcional-e-inspeção-extrajudicial.html"
         },
         {
             "opcao": "Extrajudicial",
-            "link": "/portal/cgj2-portalextrajuducial/cgj2-cartorios.html"
+            "link": "https://old.tjap.jus.br/portal/cgj2-portalextrajuducial/cgj2-cartorios.html"
         },
         {
             "opcao": "Emolumentos",
-            "link": "/portal/home-cartorios-extrajudiciais/tabela-de-emolumentos.html"
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/tabela-de-emolumentos.html"
         },
         {
             "opcao": "Concursos de Cartórios",
-            "link": "/portal/cartórios-extrajudiciais.html"
+            "link": "https://old.tjap.jus.br/portal/cartórios-extrajudiciais.html"
         },
         {
             "opcao": "Selo Eletrônico",
@@ -482,7 +482,7 @@
         },
         {
             "opcao": "![Selo 29 Anos TJAP",
-            "link": "https://old.tjap.jus.br/portal/images/stories/selo_29_anos_tjap.png"
+            "link": "https://old.tjap.jus.br/portal/images/stories/selo29anostjap.png"
         },
         {
             "opcao": "![Selo Ouro CNJ",
@@ -498,5 +498,5 @@
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/portal/corregedoria.html",
-    "descricao": "](/portal)\n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n \n\nPesquisar...\n\n Pesquisar\n\n  \n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\nInstitucional\n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\nAtos Normativos\n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\nComarcas\n\n*   \n    \n*   \n    \n*   \n    \n\nPlantões\n\n*   \n    \n*   \n    \n\nPortal Extrajudicial\n\n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n*   \n    \n\n6.  \n    \n\n\\\n\\\n### TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição](/portal/publicacoes/noticias/13909-tjap-realiza-homenagem-a-policiais-militares-do-gabinete-militar-da-instituição.html \"TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição\")\n\n\\\n\\\n### Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá](/portal/publicacoes/noticias/13560-saiba-quais-as-competências-da-câmara-única-e-secção-única-do-tribunal-de-justiça-do-amapá.html \"Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá \")\n\n\\\n\\\n### Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas](/portal/publicacoes/noticias/13897-reavaliação-de-medidas-juizado-de-infância-e-juventude-de-macapá-conclui-3ª-semana-de-audiências-concentradas.html \"Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas\")\n\n\\\n\\\n### Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19](/portal/publicacoes/noticias/13900-tribunal-do-júri-da-comarca-de-macapá-intensifica-pauta-de-julgamentos-represada-em-virtude-da-pandemia-da-covid-19.html \"Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19\")\n\n\\\n\\\n### Portal do TJAP entra em manutenção nesta sexta-feira (30) para implementação de novo layout com foco nos serviços, leveza e simplicidade](/portal/publicacoes/noticias/13892-portal-do-tjap-entra-em-manutenção-nesta-sexta-feira-30-para-implementação-de-novo-layout-com-foco-nos-serviços,-leveza-e-simplicidade.html \"Portal do TJAP entra em manutenção nesta sexta-feira (30) para implementação de novo layout com foco nos serviços, leveza e simplicidade\")\n\n](/portal/component/banners/click/277.html \"Programa de Residência Jurídica\")\n\n](/portal/component/banners/click/276.html \"7º ENCONTRO DO COLÉGIO DE OUVIDORES JUDICIAIS\")\n\n](/portal/component/banners/click/264.html \"BALCÃO VIRTUAL\")\n\n](/portal/component/banners/click/247.html \"Telefone para contato com as unidades judiciárias\")\n\n](/portal/component/banners/click/271.html \"Plano de Gestão 2021-2022\")\n\n#### Consulta rápida\n\nNúmero do Processo ou Nome da Parte\n\n \n\nConsulta rápida\n\nNúmero Único da Justiça\n\nNome da Parte\n\n \n\nhttp://www.tjap.jus.br/app/open/consultas/?task=doc\n\n#### Selo eletrônico\n\nCódigo do Selo  \n(Hash)\n\n \n\n#### \n\n#### \n\nPrevious\n\n](https://www.cartoriojucacruz.com.br/)\n\n](http://www.crimacapa.com.br/)\n\n](http://www.cartoriovales.com.br/)\n\n](https://www.indisponibilidade.org.br/)\n\n](https://www.registradores.org.br)\n\n\n\n](https://www.anoreg.org.br/site/)\n\n](https://www.anoregap.org)\n\n](http://www.arpenbrasil.org.br/home.php)\n\n](http://www.sirc.gov.br/)\n\n](https://sistema.registrocivil.org.br/portal/)\n\n](https://censec.org.br/)\n\n](http://www.registrocivil.ibge.gov.br/)\n\n](https://cartorio.cenprotnacional.org.br/login)\n\n](https://www.notariado.org.br/)\n\n](https://www.cartoriojucacruz.com.br/)\n\n](http://www.crimacapa.com.br/)\n\n](http://www.cartoriovales.com.br/)\n\n](https://www.indisponibilidade.org.br/)\n\n](https://www.registradores.org.br)\n\n\n\n](https://www.anoreg.org.br/site/)\n\n](https://www.anoregap.org)\n\n](http://www.arpenbrasil.org.br/home.php)\n\n](http://www.sirc.gov.br/)\n\n](https://sistema.registrocivil.org.br/portal/)\n\n](https://censec.org.br/)\n\n](http://www.registrocivil.ibge.gov.br/)\n\n](https://cartorio.cenprotnacional.org.br/login)\n\n](https://www.notariado.org.br/)\n\n](https://www.cartoriojucacruz.com.br/)\n\n](http://www.crimacapa.com.br/)\n\n](http://www.cartoriovales.com.br/)\n\n](https://www.indisponibilidade.org.br/)\n\n](https://www.registradores.org.br)\n\nNext\n\n*   \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n*   \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n*   \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n*   \n    *   \n        \n    *   \n        \n    *   \n        \n    *   \n        \n*   \n    *   \n        \n*   \n    *   \n        \n    *   \n        \n    *   \n        \n\nTribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21  \nRua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP  \nFone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.\n\n ](#)\n](/portal/publicacoes/noticias/4410-tjap-conquista-selo-ouro-do-programa-justi%C3%A7a-em-n%C3%BAmeros-do-cnj.html)\n](http://www.tjap.jus.br/portal/publicacoes/sessoes-online.html)\n\n×\n\n  \\\nResponda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)"
+    "descricao": "](https://old.tjap.jus.br/portal)                                                                                                Pesquisar...   Pesquisar                                           Institucional                                                         Atos Normativos                                                         Comarcas                              Plantões                     Portal Extrajudicial                                                                           6.         \\ \\     TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição](https://old.tjap.jus.br/portal/publicacoes/noticias/13909-tjap-realiza-homenagem-a-policiais-militares-do-gabinete-militar-da-instituição.html \"TJAP realiza homenagem a policiais militares do Gabinete Militar da instituição\")  \\ \\     Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá](https://old.tjap.jus.br/portal/publicacoes/noticias/13560-saiba-quais-as-competências-da-câmara-única-e-secção-única-do-tribunal-de-justiça-do-amapá.html \"Saiba quais as competências da Câmara Única e Secção Única do Tribunal de Justiça do Amapá \")  \\ \\     Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas](https://old.tjap.jus.br/portal/publicacoes/noticias/13897-reavaliação-de-medidas-juizado-de-infância-e-juventude-de-macapá-conclui-3ª-semana-de-audiências-concentradas.html \"Reavaliação de Medidas: Juizado de Infância e Juventude de Macapá conclui 3ª semana de Audiências Concentradas\")  \\ \\     Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19](https://old.tjap.jus.br/portal/publicacoes/noticias/13900-tribunal-do-júri-da-comarca-de-macapá-intensifica-pauta-de-julgamentos-represada-em-virtude-da-pandemia-da-covid-19.html \"Tribunal do Júri da Comarca de Macapá intensifica pauta de julgamentos represada em virtude da pandemia da Covid-19\")  \\ \\     Portal do TJAP entra em manutenção nesta sexta-feira (30) para implementação de novo layout com foco nos serviços, leveza e simplicidade](https://old.tjap.jus.br/portal/publicacoes/noticias/13892-portal-do-tjap-entra-em-manutenção-nesta-sexta-feira-30-para-implementação-de-novo-layout-com-foco-nos-serviços,-leveza-e-simplicidade.html \"Portal do TJAP entra em manutenção nesta sexta-feira (30) para implementação de novo layout com foco nos serviços, leveza e simplicidade\")  ](https://old.tjap.jus.br/portal/component/banners/click/277.html \"Programa de Residência Jurídica\")  ](https://old.tjap.jus.br/portal/component/banners/click/276.html \"7º ENCONTRO DO COLÉGIO DE OUVIDORES JUDICIAIS\")  ](https://old.tjap.jus.br/portal/component/banners/click/264.html \"BALCÃO VIRTUAL\")  ](https://old.tjap.jus.br/portal/component/banners/click/247.html \"Telefone para contato com as unidades judiciárias\")  ](https://old.tjap.jus.br/portal/component/banners/click/271.html \"Plano de Gestão 2021-2022\")       Consulta rápida  Número do Processo ou Nome da Parte     Consulta rápida  Número Único da Justiça  Nome da Parte     http://www.tjap.jus.br/app/open/consultas/?task=doc       Selo eletrônico  Código do Selo   (Hash)                   Previous  ](https://www.cartoriojucacruz.com.br/)  ](http://www.crimacapa.com.br/)  ](http://www.cartoriovales.com.br/)  ](https://www.indisponibilidade.org.br/)  ](https://www.registradores.org.br)    ](https://www.anoreg.org.br/site/)  ](https://www.anoregap.org)  ](http://www.arpenbrasil.org.br/home.php)  ](http://www.sirc.gov.br/)  ](https://sistema.registrocivil.org.br/portal/)  ](https://censec.org.br/)  ](http://www.registrocivil.ibge.gov.br/)  ](https://cartorio.cenprotnacional.org.br/login)  ](https://www.notariado.org.br/)  ](https://www.cartoriojucacruz.com.br/)  ](http://www.crimacapa.com.br/)  ](http://www.cartoriovales.com.br/)  ](https://www.indisponibilidade.org.br/)  ](https://www.registradores.org.br)    ](https://www.anoreg.org.br/site/)  ](https://www.anoregap.org)  ](http://www.arpenbrasil.org.br/home.php)  ](http://www.sirc.gov.br/)  ](https://sistema.registrocivil.org.br/portal/)  ](https://censec.org.br/)  ](http://www.registrocivil.ibge.gov.br/)  ](https://cartorio.cenprotnacional.org.br/login)  ](https://www.notariado.org.br/)  ](https://www.cartoriojucacruz.com.br/)  ](http://www.crimacapa.com.br/)  ](http://www.cartoriovales.com.br/)  ](https://www.indisponibilidade.org.br/)  ](https://www.registradores.org.br)  Next                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Tribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21   Rua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP   Fone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.   ]( ) ](https://old.tjap.jus.br/portal/publicacoes/noticias/4410-tjap-conquista-selo-ouro-do-programa-justi%C3%A7a-em-n%C3%BAmeros-do-cnj.html) ](http://www.tjap.jus.br/portal/publicacoes/sessoes-online.html)  ×    \\ Responda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)"
 }

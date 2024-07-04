@@ -30,11 +30,11 @@
         },
         {
             "opcao": "",
-            "link": "https://old.tjap.jus.br/app/open/proc/imagens/estadual_primeiro_grau.jpg"
+            "link": "https://old.tjap.jus.br/app/open/proc/imagens/estadualprimeirograu.jpg"
         },
         {
             "opcao": "Voltar ao topo",
-            "link": "#"
+            "link": " "
         },
         {
             "opcao": "blank",
@@ -50,11 +50,11 @@
         },
         {
             "opcao": "632",
-            "link": "#"
+            "link": " "
         },
         {
             "opcao": "688",
-            "link": "#"
+            "link": " "
         },
         {
             "opcao": "GraficoInfo",
@@ -62,13 +62,13 @@
         },
         {
             "opcao": "Acompanhamento das metas nacionais",
-            "link": "https://sig.tjap.jus.br/sgpe_grid_metas_cnj_2019_unidade"
+            "link": "https://sig.tjap.jus.br/sgpegridmetascnj2019unidade"
         },
         {
             "opcao": "Comparar Desempenho",
-            "link": "../view/compara.php?comparar=TUE&tag=2&comarca=ESTADUAL - PRIMEIRO GRAU&id_comarca=&lotacao=&id_lotacao=&vara="
+            "link": "../view/compara.php?comparar=TUE&tag=2&comarca=ESTADUAL - PRIMEIRO GRAU&idcomarca=&lotacao=&idlotacao=&vara="
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/app/open/proc/view/view.php",
-    "descricao": "Quinta, Junho 20, 2024\n\n\n\n*   \n    \n*   \n    \n*   \n    \n\n\n\n ! \n\nEstatísticas Processuais  \n**\\* Clique no Mapa e selecione uma comarca.**\n-------------------------------------------------------------------------\n\n!\n\n\n\n  \n\n**Tribunal de Justiça do Estado do Amapá**  \nRua General Rondon, 1295, Centro, 68900-911, Macapá - Amapá - Brasil  \nHorário de Atendimento: 07:30h às 14:30h Fone. +55 (96) 3312-3300  \n  \nCopyright © 2024 - Todos os direitos reservados  \nTemplate by RocketTheme\n\n!                \n\n](#)\n\n  \n\n!\n\n  \n  \n\nProcessos com Réus Presos Provisoriamente\n\n  \n\n*   Sentença **Não** Transitada em Julgado: \n    \n*   Sem Sentença Proferida: \n    \n\n  \n  \n\n!\n\n  \n  \n\nÍNDICE DE ATENDIMENTO À DEMANDA: 6.51\n\nTEMPO MÉDIO DE DURAÇÃO DOS PROCESSOS: 393.42\n\n\n\n  \n  \n\n"
+    "descricao": "Quinta, Junho 20, 2024                                   !   Estatísticas Processuais   \\ Clique no Mapa e selecione uma comarca. -------------------------------------------------------------------------  !        Tribunal de Justiça do Estado do Amapá   Rua General Rondon, 1295, Centro, 68900-911, Macapá - Amapá - Brasil   Horário de Atendimento: 07:30h às 14:30h Fone. +55 (96) 3312-3300      Copyright © 2024 - Todos os direitos reservados   Template by RocketTheme  !                  ]( )      !         Processos com Réus Presos Provisoriamente         Sentença Não Transitada em Julgado:          Sem Sentença Proferida:               !         ÍNDICE DE ATENDIMENTO À DEMANDA: 6.51  TEMPO MÉDIO DE DURAÇÃO DOS PROCESSOS: 393.42           "
 }

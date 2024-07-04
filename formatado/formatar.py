@@ -8,8 +8,8 @@ def extract_options_and_links(content):
     return matches
 
 def main():
-    input_directory = 'links'  
-    output_directory = 'links/formatado' 
+    input_directory = 'conteudo_variado/limpo'  
+    output_directory = 'conteudo_variado/formatado' 
     
     os.makedirs(output_directory, exist_ok=True)
     

@@ -22,8 +22,8 @@ def clean_markdown(content):
     content = re.sub(r'\[Topo\]\( \)', '', content)   # Remover header
     return content
 
-input_folder = 'links'
-output_folder = 'links\limpo'
+input_folder = 'formatado\links'
+output_folder = 'formatado\links\limpo'
 
 # Criar a pasta de saída se não existir
 os.makedirs(output_folder, exist_ok=True)

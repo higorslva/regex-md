@@ -2,43 +2,43 @@
     "opcao_e_link": [
         {
             "opcao": "DESEMBARGADOR ADÃO CARVALHO",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=155026"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=155026"
         },
         {
             "opcao": "DESEMBARGADOR JAYME FERREIRA",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=198695"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=198695"
         },
         {
             "opcao": "JAYME HENRIQUE FERREIRA",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=198695"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=198695"
         },
         {
             "opcao": "DESEMBARGADOR GILBERTO PINHEIRO",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=3073020"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=3073020"
         },
         {
             "opcao": "DESEMBARGADOR CARMO ANTÔNIO",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=157372"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=157372"
         },
         {
             "opcao": "DESEMBARGADOR AGOSTINO SILVÉRIO",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=333719"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=333719"
         },
         {
             "opcao": "DESEMBARGADOR MÁRIO MAZUREK",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=155200"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=155200"
         },
         {
             "opcao": "DESEMBARGADOR CARLOS TORK",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=108"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=108"
         },
         {
             "opcao": "DESEMBARGADOR JOAO LAGES",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=3055934"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=3055934"
         },
         {
             "opcao": "DESEMBARGADOR ROMMEL ARAÚJO DE OLIVEIRA",
-            "link": "https://sig.tjap.jus.br/tucujurometro_2g/view/detalhe.magistrado.view.php?id=3599009"
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/view/detalhe.magistrado.view.php?id=3599009"
         },
         {
             "opcao": "MARINA LORENA NUNES LUSTOSA",
@@ -350,5 +350,5 @@
         }
     ],
     "sourceURL": "https://old.tjap.jus.br/app/open/proc/view/list.magistrado.view.php",
-    "descricao": "| Produtividade dos Magistrados<br>----------------------------- |\n| --- |\n| Retornar |     |\n| DESEMBARGADOR<br>------------- |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n| JUIZ DE DIREITO DE ENTRANCIA FINAL<br>---------------------------------- |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n| JUIZ DE DIREITO DE ENTRANCIA INICIAL<br>------------------------------------ |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n| JUIZ DE DIREITO SUBSTITUTO<br>-------------------------- |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n| ESTAGIÁRIO DE DIREITO<br>--------------------- |\n|  |"
+    "descricao": "| Produtividade dos Magistrados----------------------------- | | --- | | Retornar |     | | DESEMBARGADOR------------- | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | JUIZ DE DIREITO DE ENTRANCIA FINAL---------------------------------- | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | JUIZ DE DIREITO DE ENTRANCIA INICIAL------------------------------------ | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | JUIZ DE DIREITO SUBSTITUTO-------------------------- | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | ESTAGIÁRIO DE DIREITO--------------------- | |  |"
 }
