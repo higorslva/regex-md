@@ -1,131 +1,131 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "",
+            "titulo": "",
             "link": "  "
         },
         {
-            "opcao": "Portal da Transparência",
+            "titulo": "Portal da Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia.html \"Portal da Transparência\""
         },
         {
-            "opcao": "Apresentação",
+            "titulo": "Apresentação",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao.html \"Apresentação\""
         },
         {
-            "opcao": "Modelo de Informações",
+            "titulo": "Modelo de Informações",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/modelo-de-informacoes.html \"Modelo de Informações\""
         },
         {
-            "opcao": "Atos Transparência",
+            "titulo": "Atos Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/atos-transparencia.html \"Atos Transparência \""
         },
         {
-            "opcao": "Ranking da Transparência",
+            "titulo": "Ranking da Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/ranking-da-transparencia.html \"Ranking da Transparência\""
         },
         {
-            "opcao": "Transparência Pública",
+            "titulo": "Transparência Pública",
             "link": "https://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html"
         },
         {
-            "opcao": "Gestão",
+            "titulo": "Gestão",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-estrategica.html \"Gestão\""
         },
         {
-            "opcao": "Audiências e Sessões",
+            "titulo": "Audiências e Sessões",
             "link": "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html \"Audiências e Sessões\""
         },
         {
-            "opcao": "Serviço de Informações ao Cidadão",
+            "titulo": "Serviço de Informações ao Cidadão",
             "link": "https://www.tjap.jus.br/portal/transparencia/sic.html \"Serviço de Informações ao Cidadão\""
         },
         {
-            "opcao": "Ouvidoria",
+            "titulo": "Ouvidoria",
             "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html \"Ouvidoria\""
         },
         {
-            "opcao": "Tecnologia da Informação e Comunicação",
+            "titulo": "Tecnologia da Informação e Comunicação",
             "link": "https://www.tjap.jus.br/portal/transparencia/tic.html \"Tecnologia da Informação e Comunicação\""
         },
         {
-            "opcao": "Gestão Orçamentária e Financeira",
+            "titulo": "Gestão Orçamentária e Financeira",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html \"Gestão Orçamentária e Financeira\""
         },
         {
-            "opcao": "Licitações, Contratos e Instrumentos de Cooperação",
+            "titulo": "Licitações, Contratos e Instrumentos de Cooperação",
             "link": "https://www.tjap.jus.br/portal/transparencia/licitacoes-contratos-e-instrumentos-de-cooperacao.html \"Licitações, Contratos e Instrumentos de Cooperação\""
         },
         {
-            "opcao": "Gestão de Pessoas",
+            "titulo": "Gestão de Pessoas",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-pessoas.html \"Gestão de Pessoas\""
         },
         {
-            "opcao": "Auditoria e Prestação de Contas",
+            "titulo": "Auditoria e Prestação de Contas",
             "link": "https://www.tjap.jus.br/portal/transparencia/auditoria-e-prestacao-de-contas.html \"Auditoria e Prestação de Contas\""
         },
         {
-            "opcao": "Sustentabilidade e Acessibilidade",
+            "titulo": "Sustentabilidade e Acessibilidade",
             "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html \"Sustentabilidade e Acessibilidade\""
         },
         {
-            "opcao": "Acessibilidade",
+            "titulo": "Acessibilidade",
             "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html \"Acessibilidade\""
         },
         {
-            "opcao": "Início",
+            "titulo": "Início",
             "link": "https://www.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Constituição Federal",
+            "titulo": "Constituição Federal",
             "link": "http://www.planalto.gov.br/ccivil03/constituicao/constituicao.htm"
         },
         {
-            "opcao": "Constituição Estadual",
+            "titulo": "Constituição Estadual",
             "link": "https://old.tjap.jus.br/portal/images/stories/constituicaoamapa.pdf"
         },
         {
-            "opcao": "LEI DE ORGANIZAÇÃO JUDICIÁRIA DO ESTADO DO AMAPÁ",
+            "titulo": "LEI DE ORGANIZAÇÃO JUDICIÁRIA DO ESTADO DO AMAPÁ",
             "link": "https://old.tjap.jus.br/portal/images/SGPE/legislacao/atualizacaoDECRETOn.0069de15demaiode1991.pdf"
         },
         {
-            "opcao": "Lei Complementar Nº 093/2015",
+            "titulo": "Lei Complementar Nº 093/2015",
             "link": "https://old.tjap.jus.br/portal/images/stories/legislacao/leis/leicomplementar932015.pdf"
         },
         {
-            "opcao": "Regimento Interno do Tribunal de Justiça do Amapá",
+            "titulo": "Regimento Interno do Tribunal de Justiça do Amapá",
             "link": "https://sig.tjap.jus.br/atonormativogridatonormativovertical/atonormativogridatonormativovertical.php?varato=207"
         },
         {
-            "opcao": "Regimento Interno da Turma Recursal",
+            "titulo": "Regimento Interno da Turma Recursal",
             "link": "https://sig.tjap.jus.br/atonormativogridatonormativovertical/atonormativogridatonormativovertical.php?varato=2412"
         },
         {
-            "opcao": "Resolução nº 1575/2022-TJAP",
+            "titulo": "Resolução nº 1575/2022-TJAP",
             "link": "https://sig.tjap.jus.br/atonormativogridatonormativovertical/atonormativogridatonormativovertical.php?varato=3312"
         },
         {
-            "opcao": "      Consulta de Atos Normativos",
+            "titulo": "      Consulta de Atos Normativos",
             "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
         },
         {
-            "opcao": "Tribunal de Justiça do Estado do Amapá",
+            "titulo": "Tribunal de Justiça do Estado do Amapá",
             "link": "https://www.tjap.jus.br/portal/images/imagens/portal/tjap-footer-ouro-2023.png"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://www.facebook.com/pages/tjap/215744231796241"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://twitter.com/tjapoficial"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://www.youtube.com/user/TJAPNoticias"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://instagram.com/tjap.oficial"
         }
     ],

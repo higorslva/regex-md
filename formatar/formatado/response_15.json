@@ -1,59 +1,59 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Portal",
+            "titulo": "Portal",
             "link": "https://old.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Apresentação",
+            "titulo": "Apresentação",
             "link": "https://old.tjap.jus.br/portal/apresentacao-astecin.html"
         },
         {
-            "opcao": "Ações Coordenadas de Auditorias",
+            "titulo": "Ações Coordenadas de Auditorias",
             "link": "https://old.tjap.jus.br/portal/ações-coordenadas-de-auditorias.html"
         },
         {
-            "opcao": "Ações de Fortalecimento dos Órgãos",
+            "titulo": "Ações de Fortalecimento dos Órgãos",
             "link": "https://old.tjap.jus.br/portal/acoes-fortalecimento-orgaos-controle-interno.html"
         },
         {
-            "opcao": "Determinações TCU",
+            "titulo": "Determinações TCU",
             "link": "https://old.tjap.jus.br/portal/determinações-tcu.html"
         },
         {
-            "opcao": "Determinações TCE/AP",
+            "titulo": "Determinações TCE/AP",
             "link": "https://old.tjap.jus.br/portal/determinações-tce-ap.html"
         },
         {
-            "opcao": "Eventos de Controle",
+            "titulo": "Eventos de Controle",
             "link": "https://old.tjap.jus.br/portal/eventos-de-controle.html"
         },
         {
-            "opcao": "Normas Sobre Auditoria",
+            "titulo": "Normas Sobre Auditoria",
             "link": "https://old.tjap.jus.br/portal/normas-sobre-auditoria,-inspeção-administrativa-e-fiscalização.html"
         },
         {
-            "opcao": "Normativos CNJ",
+            "titulo": "Normativos CNJ",
             "link": "https://old.tjap.jus.br/portal/normativos-cnj.html"
         },
         {
-            "opcao": "Planejamento",
+            "titulo": "Planejamento",
             "link": "https://old.tjap.jus.br/portal/planejamento-astecin.html"
         },
         {
-            "opcao": "Relatório Anual",
+            "titulo": "Relatório Anual",
             "link": "https://old.tjap.jus.br/portal/planejamento-astecin-2.html"
         },
         {
-            "opcao": "Normativos TJAP",
+            "titulo": "Normativos TJAP",
             "link": "https://old.tjap.jus.br/portal/normativos-tjap.html"
         },
         {
-            "opcao": "Processo de Contas Anual",
+            "titulo": "Processo de Contas Anual",
             "link": "https://www.tjap.jus.br/portal/planejamento-or%C3%A7ament%C3%A1rio/presta%C3%A7%C3%A3o-de-contas.html"
         },
         {
-            "opcao": "Check-List",
+            "titulo": "Check-List",
             "link": "https://old.tjap.jus.br/portal/check-list-astecin.html"
         }
     ],

@@ -30,13 +30,13 @@ def main():
             content = re.sub(r'\[(.*?)\]\((.*?)\)', r'', content)          
 
             output_data = {
-                "opcao_e_link": [],
+                "titulo_e_link": [],
                 "sourceURL": source_url,
                 "descricao": content
             }
             for description, link in descriptions_and_links:
-                output_data["opcao_e_link"].append({
-                    "opcao": description,
+                output_data["titulo_e_link"].append({
+                    "titulo": description,
                     "link": link
                 })
 

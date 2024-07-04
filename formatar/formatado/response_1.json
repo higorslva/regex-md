@@ -1,119 +1,119 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Portal",
+            "titulo": "Portal",
             "link": "https://old.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Cível",
+            "titulo": "Cível",
             "link": "https://old.tjap.jus.br/portal/cível.html"
         },
         {
-            "opcao": "Criminal",
+            "titulo": "Criminal",
             "link": "https://old.tjap.jus.br/portal/criminal.html"
         },
         {
-            "opcao": "Execuções Penais",
+            "titulo": "Execuções Penais",
             "link": "https://old.tjap.jus.br/portal/execuções-penais.html"
         },
         {
-            "opcao": "Execução de Penas e Medidas Alternativas",
+            "titulo": "Execução de Penas e Medidas Alternativas",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas.html"
         },
         {
-            "opcao": "Central de Garantias e Execução de Penas e Medidas Alternativas",
+            "titulo": "Central de Garantias e Execução de Penas e Medidas Alternativas",
             "link": " "
         },
         {
-            "opcao": "Apresentação",
+            "titulo": "Apresentação",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-3.html"
         },
         {
-            "opcao": "Composição",
+            "titulo": "Composição",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-4.html"
         },
         {
-            "opcao": "Edital para apresentação de Projetos Sociais",
+            "titulo": "Edital para apresentação de Projetos Sociais",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-5.html"
         },
         {
-            "opcao": "Legislação",
+            "titulo": "Legislação",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-6.html"
         },
         {
-            "opcao": "Prestação de Contas",
+            "titulo": "Prestação de Contas",
             "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-7.html"
         },
         {
-            "opcao": "Execuções Fiscais",
+            "titulo": "Execuções Fiscais",
             "link": "https://old.tjap.jus.br/portal/execuções-fiscais.html"
         },
         {
-            "opcao": "Família e Sucessões",
+            "titulo": "Família e Sucessões",
             "link": "https://old.tjap.jus.br/portal/família-e-sucessões.html"
         },
         {
-            "opcao": "Fazenda Pública",
+            "titulo": "Fazenda Pública",
             "link": "https://old.tjap.jus.br/portal/fazenda-pública.html"
         },
         {
-            "opcao": "Infância e Juventude",
+            "titulo": "Infância e Juventude",
             "link": "https://old.tjap.jus.br/portal/infância-e-juventude.html"
         },
         {
-            "opcao": "Justiça Restaurativa",
+            "titulo": "Justiça Restaurativa",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa.html"
         },
         {
-            "opcao": "Resoluções CNJ",
+            "titulo": "Resoluções CNJ",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-2.html"
         },
         {
-            "opcao": "Portarias",
+            "titulo": "Portarias",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-8.html"
         },
         {
-            "opcao": "Seminários",
+            "titulo": "Seminários",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-3.html"
         },
         {
-            "opcao": "Práticas Restaurativas",
+            "titulo": "Práticas Restaurativas",
             "link": " "
         },
         {
-            "opcao": "Comitê",
+            "titulo": "Comitê",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-5.html"
         },
         {
-            "opcao": "Capacitação",
+            "titulo": "Capacitação",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-6.html"
         },
         {
-            "opcao": "Projetos",
+            "titulo": "Projetos",
             "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-7.html"
         },
         {
-            "opcao": "Juizados Especiais",
+            "titulo": "Juizados Especiais",
             "link": "https://old.tjap.jus.br/portal/juizados-especiais-ii.html"
         },
         {
-            "opcao": "Violência Doméstica",
+            "titulo": "Violência Doméstica",
             "link": "https://old.tjap.jus.br/portal/violência-doméstica.html"
         },
         {
-            "opcao": "Falências e Recuperações Judiciais",
+            "titulo": "Falências e Recuperações Judiciais",
             "link": "https://old.tjap.jus.br/portal/falências-e-recuperações-judiciais.html"
         },
         {
-            "opcao": "Central Psicossocial",
+            "titulo": "Central Psicossocial",
             "link": "https://old.tjap.jus.br/portal/centralpsicossocial.html"
         },
         {
-            "opcao": "Projeto A-PRÓPRIA-AÇÃO DE VIDA",
+            "titulo": "Projeto A-PRÓPRIA-AÇÃO DE VIDA",
             "link": "https://old.tjap.jus.br/portal/centralpsicossocial/a-propria-acao-de-vida.html"
         },
         {
-            "opcao": "→Boletim Interno",
+            "titulo": "→Boletim Interno",
             "link": "https://sig.tjap.jus.br/publicacoes/mdgridpublicacoespublica.php"
         }
     ],

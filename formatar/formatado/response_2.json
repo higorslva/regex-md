@@ -1,15 +1,15 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "ACERVO",
+            "titulo": "ACERVO",
             "link": "https://old.tjap.jus.br/portal/consultas/biblioteca.html"
         },
         {
-            "opcao": "layout",
+            "titulo": "layout",
             "link": "https://old.tjap.jus.br/portal/images/stories/documentos/CHECK-LIST/BIBLIOTECA/layout.jpg"
         },
         {
-            "opcao": "Início",
+            "titulo": "Início",
             "link": "https://old.tjap.jus.br/portal/"
         }
     ],

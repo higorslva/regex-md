@@ -1,131 +1,131 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Portal da Transparência",
+            "titulo": "Portal da Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia.html \"Portal da Transparência\""
         },
         {
-            "opcao": "Apresentação",
+            "titulo": "Apresentação",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao.html \"Apresentação\""
         },
         {
-            "opcao": "Modelo de Informações",
+            "titulo": "Modelo de Informações",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/modelo-de-informacoes.html \"Modelo de Informações\""
         },
         {
-            "opcao": "Atos Transparência",
+            "titulo": "Atos Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/atos-transparencia.html \"Atos Transparência \""
         },
         {
-            "opcao": "Ranking da Transparência",
+            "titulo": "Ranking da Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/ranking-da-transparencia.html \"Ranking da Transparência\""
         },
         {
-            "opcao": "Transparência Pública",
+            "titulo": "Transparência Pública",
             "link": "https://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html"
         },
         {
-            "opcao": "Gestão",
+            "titulo": "Gestão",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-estrategica.html \"Gestão\""
         },
         {
-            "opcao": "Audiências e Sessões",
+            "titulo": "Audiências e Sessões",
             "link": "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html \"Audiências e Sessões\""
         },
         {
-            "opcao": "Serviço de Informações ao Cidadão",
+            "titulo": "Serviço de Informações ao Cidadão",
             "link": "https://www.tjap.jus.br/portal/transparencia/sic.html \"Serviço de Informações ao Cidadão\""
         },
         {
-            "opcao": "Ouvidoria",
+            "titulo": "Ouvidoria",
             "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html \"Ouvidoria\""
         },
         {
-            "opcao": "Tecnologia da Informação e Comunicação",
+            "titulo": "Tecnologia da Informação e Comunicação",
             "link": "https://www.tjap.jus.br/portal/transparencia/tic.html \"Tecnologia da Informação e Comunicação\""
         },
         {
-            "opcao": "Gestão Orçamentária e Financeira",
+            "titulo": "Gestão Orçamentária e Financeira",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html \"Gestão Orçamentária e Financeira\""
         },
         {
-            "opcao": "Licitações, Contratos e Instrumentos de Cooperação",
+            "titulo": "Licitações, Contratos e Instrumentos de Cooperação",
             "link": "https://www.tjap.jus.br/portal/transparencia/licitacoes-contratos-e-instrumentos-de-cooperacao.html \"Licitações, Contratos e Instrumentos de Cooperação\""
         },
         {
-            "opcao": "Gestão de Pessoas",
+            "titulo": "Gestão de Pessoas",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-pessoas.html \"Gestão de Pessoas\""
         },
         {
-            "opcao": "Auditoria e Prestação de Contas",
+            "titulo": "Auditoria e Prestação de Contas",
             "link": "https://www.tjap.jus.br/portal/transparencia/auditoria-e-prestacao-de-contas.html \"Auditoria e Prestação de Contas\""
         },
         {
-            "opcao": "Sustentabilidade e Acessibilidade",
+            "titulo": "Sustentabilidade e Acessibilidade",
             "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html \"Sustentabilidade e Acessibilidade\""
         },
         {
-            "opcao": "Acessibilidade",
+            "titulo": "Acessibilidade",
             "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html \"Acessibilidade\""
         },
         {
-            "opcao": "Início",
+            "titulo": "Início",
             "link": "https://www.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Portal da Transparência",
+            "titulo": "Portal da Transparência",
             "link": "https://www.tjap.jus.br/portal/transparencia.html"
         },
         {
-            "opcao": "16-03diaOuvidor2.jpeg",
+            "titulo": "16-03diaOuvidor2.jpeg",
             "link": "https://old.tjap.jus.br/portal/images/03052021corregedoria/desembargadoragostino.png"
         },
         {
-            "opcao": "ouvidora.jpg",
+            "titulo": "ouvidora.jpg",
             "link": "https://old.tjap.jus.br/portal/images/ouvidora.jpg"
         },
         {
-            "opcao": "Balcão Virtual Ouvidoria TJAP",
+            "titulo": "Balcão Virtual Ouvidoria TJAP",
             "link": "https://us02web.zoom.us/my/ouvidoriatjap"
         },
         {
-            "opcao": "Whatsapp: (96) 98412-5301",
+            "titulo": "Whatsapp: (96) 98412-5301",
             "link": "https://api.whatsapp.com/message/CE2OREC3R3I6B1"
         },
         {
-            "opcao": "Formulário Eletrônico",
+            "titulo": "Formulário Eletrônico",
             "link": "https://sig.tjap.jus.br/formouvidoriamanifestacao/formouvidoriamanifestacao.php"
         },
         {
-            "opcao": "Canais de Acesso",
+            "titulo": "Canais de Acesso",
             "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html?view=article&id=1814"
         },
         {
-            "opcao": "Atribuições",
+            "titulo": "Atribuições",
             "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html?view=article&id=1812"
         },
         {
-            "opcao": "Regulamentação",
+            "titulo": "Regulamentação",
             "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html?view=article&id=1815"
         },
         {
-            "opcao": "Tribunal de Justiça do Estado do Amapá",
+            "titulo": "Tribunal de Justiça do Estado do Amapá",
             "link": "https://www.tjap.jus.br/portal/images/imagens/portal/tjap-footer-ouro-2023.png"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://www.facebook.com/pages/tjap/215744231796241"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://twitter.com/tjapoficial"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://www.youtube.com/user/TJAPNoticias"
         },
         {
-            "opcao": "",
+            "titulo": "",
             "link": "http://instagram.com/tjap.oficial"
         }
     ],

@@ -1,111 +1,111 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Portal",
+            "titulo": "Portal",
             "link": "https://old.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Secretaria de Precatórios",
+            "titulo": "Secretaria de Precatórios",
             "link": "https://old.tjap.jus.br/portal/secretaria-de-precatórios.html"
         },
         {
-            "opcao": "Encontro Nacional da Câmara de Precatórios",
+            "titulo": "Encontro Nacional da Câmara de Precatórios",
             "link": "https://encontrocamaranacionalprecatorios.netlify.app/"
         },
         {
-            "opcao": "Perguntas Frequentes (FAQ)",
+            "titulo": "Perguntas Frequentes (FAQ)",
             "link": "https://old.tjap.jus.br/portal/secretaria-de-precatórios-2.html"
         },
         {
-            "opcao": "Definição de Precatórios",
+            "titulo": "Definição de Precatórios",
             "link": "https://old.tjap.jus.br/portal/2016-02-01-13-18-26.html"
         },
         {
-            "opcao": "Edital Acordo Direto",
+            "titulo": "Edital Acordo Direto",
             "link": "https://old.tjap.jus.br/portal/precatorio-acordo-direto.html"
         },
         {
-            "opcao": "Legislação Federal",
+            "titulo": "Legislação Federal",
             "link": "https://old.tjap.jus.br/portal/legislação-federal.html"
         },
         {
-            "opcao": "Normas do CNJ",
+            "titulo": "Normas do CNJ",
             "link": "https://old.tjap.jus.br/portal/normas-do-cnj.html"
         },
         {
-            "opcao": "Legislação Estadual e Municipal",
+            "titulo": "Legislação Estadual e Municipal",
             "link": " "
         },
         {
-            "opcao": "Decretos Opção Regime Especial",
+            "titulo": "Decretos Opção Regime Especial",
             "link": "https://old.tjap.jus.br/portal/2016-02-01-13-21-22/decretos-opção-regime-especial.html"
         },
         {
-            "opcao": "Leis de RPV",
+            "titulo": "Leis de RPV",
             "link": "https://old.tjap.jus.br/portal/2016-02-01-13-21-22/leis-de-rpv.html"
         },
         {
-            "opcao": "Normas do Tribunal de Justiça do Amapá",
+            "titulo": "Normas do Tribunal de Justiça do Amapá",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá.html"
         },
         {
-            "opcao": "Atos Conjuntos",
+            "titulo": "Atos Conjuntos",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá/atos-precatorio.html"
         },
         {
-            "opcao": "Resoluções",
+            "titulo": "Resoluções",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá/resolucoes-precatorio.html"
         },
         {
-            "opcao": "Instruções Normativas",
+            "titulo": "Instruções Normativas",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá/in-precatorio.html"
         },
         {
-            "opcao": "Portarias",
+            "titulo": "Portarias",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá/portarias-precatorio.html"
         },
         {
-            "opcao": "Recomendações",
+            "titulo": "Recomendações",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá/recomendacoes-precatorio.html"
         },
         {
-            "opcao": "Tabela de Correção de Precatórios e Juros",
+            "titulo": "Tabela de Correção de Precatórios e Juros",
             "link": "https://old.tjap.jus.br/portal/normas-do-tribunal-de-justiça-do-amapá/tabelas-precatorio-2.html"
         },
         {
-            "opcao": "Jurisprudência de Precatórios",
+            "titulo": "Jurisprudência de Precatórios",
             "link": "https://old.tjap.jus.br/portal/jurisprudência-de-precatórios.html"
         },
         {
-            "opcao": "Lista de Ordem Cronológica",
+            "titulo": "Lista de Ordem Cronológica",
             "link": "https://old.tjap.jus.br/portal/2016-02-01-13-27-57.html"
         },
         {
-            "opcao": "Lista de Superpreferências Deferidas",
+            "titulo": "Lista de Superpreferências Deferidas",
             "link": "https://sig.tjap.jus.br/sgpecontrollistaprecatoriospreferencias/"
         },
         {
-            "opcao": "Plano de Pagamento dos Entes",
+            "titulo": "Plano de Pagamento dos Entes",
             "link": "https://old.tjap.jus.br/portal/plano-de-pagamento.html"
         },
         {
-            "opcao": "Mapa Anual de Precatórios TJAP",
+            "titulo": "Mapa Anual de Precatórios TJAP",
             "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html?view=article&id=1686"
         },
         {
-            "opcao": "Mapa Estatístico de Precatório TJAP - Regime Especial",
+            "titulo": "Mapa Estatístico de Precatório TJAP - Regime Especial",
             "link": "https://old.tjap.jus.br/portal/mapa-precatorios-2.html"
         },
         {
-            "opcao": "Saldos Contas - Regime Especial de Pagamento de Precatórios",
+            "titulo": "Saldos Contas - Regime Especial de Pagamento de Precatórios",
             "link": "https://old.tjap.jus.br/portal/mapa-precatorios-3.html"
         },
         {
-            "opcao": "![Encontro da Câmara Nacional de Gestores de Precatórios",
+            "titulo": "![Encontro da Câmara Nacional de Gestores de Precatórios",
             "link": "https://encontrocamaranacionalprecatorios.netlify.app/img/encontroLogo.png"
         },
         {
-            "opcao": "protocolo.precatorios@tjap.jus.br",
+            "titulo": "protocolo.precatorios@tjap.jus.br",
             "link": "mailto:protocolo.precatorios@tjap.jus.br"
         }
     ],

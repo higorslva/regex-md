@@ -1,35 +1,35 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Apresentação",
+            "titulo": "Apresentação",
             "link": "https://old.tjap.jus.br/portal/lgpd-apresentacao.html"
         },
         {
-            "opcao": "Encarregado pelo Tratamento de Dados Pessoais",
+            "titulo": "Encarregado pelo Tratamento de Dados Pessoais",
             "link": "https://old.tjap.jus.br/portal/lgpd-encarregado.html"
         },
         {
-            "opcao": "Dados e Privacidade",
+            "titulo": "Dados e Privacidade",
             "link": " "
         },
         {
-            "opcao": "Comitê Gestor de Privacidade e Proteção de Dados Pessoais",
+            "titulo": "Comitê Gestor de Privacidade e Proteção de Dados Pessoais",
             "link": "https://old.tjap.jus.br/portal/lgpd-dadosprivacidade/lgpd-politicaeprivacidade-2.html"
         },
         {
-            "opcao": "Política de Privacidade e Proteção de Dados Pessoais para navegação no site do TJAP",
+            "titulo": "Política de Privacidade e Proteção de Dados Pessoais para navegação no site do TJAP",
             "link": "https://old.tjap.jus.br/portal/lgpd-dadosprivacidade/lgpd-dadosprivacidade03.html"
         },
         {
-            "opcao": "Direitos do Titular",
+            "titulo": "Direitos do Titular",
             "link": "https://old.tjap.jus.br/portal/lgpd-dadosprivacidade/lgpd-direito.html"
         },
         {
-            "opcao": "Política de Segurança da Informação",
+            "titulo": "Política de Segurança da Informação",
             "link": "https://old.tjap.jus.br/portal/lgpd-psi.html"
         },
         {
-            "opcao": "Contato",
+            "titulo": "Contato",
             "link": "https://old.tjap.jus.br/portal/lgpd-contato.html"
         }
     ],

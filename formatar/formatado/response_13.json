@@ -1,79 +1,79 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "desembargador gilberto",
+            "titulo": "desembargador gilberto",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/desembargador%20gilberto.png"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/7-desembargador-gilberto-pinheiro.html"
         },
         {
-            "opcao": "desembargador carmo antonio4",
+            "titulo": "desembargador carmo antonio4",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/desembargador%20carmo%20antonio4.png"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/5-desembargador-carmo-antonio.html"
         },
         {
-            "opcao": "desembargador agostino",
+            "titulo": "desembargador agostino",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/desembargador%20agostino.png"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/3-desembargador-agostino-silverio.html"
         },
         {
-            "opcao": "Desembargador Carlos Tork",
+            "titulo": "Desembargador Carlos Tork",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/DesembargadorCarlosTork.jpg"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/1710-desembargador-carlos-tork.html"
         },
         {
-            "opcao": "Desembargador joao lages",
+            "titulo": "Desembargador joao lages",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/Desembargadorjoaolages.jpg"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/6037-desembargador-joao-lages.html"
         },
         {
-            "opcao": "des rommel araujo",
+            "titulo": "des rommel araujo",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/des-rommel-araujo1.png"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/6854-desembargador-rommel-araujo.html"
         },
         {
-            "opcao": "adao.jpg",
+            "titulo": "adao.jpg",
             "link": "https://old.tjap.jus.br/portal/images/adao.jpg"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/11520-desembargador-adao-carvalho.html"
         },
         {
-            "opcao": "desembargador jayme ferreira",
+            "titulo": "desembargador jayme ferreira",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/desembargador-jayme-ferreira.jpg"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/3887-desembargador-jayme-ferreira.html"
         },
         {
-            "opcao": "desembargador ADÃO CARVALHO",
+            "titulo": "desembargador ADÃO CARVALHO",
             "link": "https://old.tjap.jus.br/portal/images/stories/foto/desembargador-mazurek.jpeg"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/home/composicao/12316-desembargador-mario-mazurek.html"
         },
         {
-            "opcao": "Início",
+            "titulo": "Início",
             "link": "https://old.tjap.jus.br/portal/"
         }
     ],

@@ -1,11 +1,11 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "aqui",
+            "titulo": "aqui",
             "link": "https://old.tjap.jus.br/portal/images/tucujuris/TucujurisIC-Instalador.exe"
         },
         {
-            "opcao": "centro de conhecimento",
+            "titulo": "centro de conhecimento",
             "link": "http://app.tjap.jus.br/tucujuris/forum"
         }
     ],

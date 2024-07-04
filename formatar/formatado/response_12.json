@@ -1,27 +1,27 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "2021",
+            "titulo": "2021",
             "link": "https://old.tjap.jus.br/portal/images/SGPE/magistrados/DocenciaMagistrados08.2021.pdf"
         },
         {
-            "opcao": "2020",
+            "titulo": "2020",
             "link": "https://old.tjap.jus.br/portal/images/SGPE/magistrados/DocenciaMagistrados09.2020.pdf"
         },
         {
-            "opcao": "2019",
+            "titulo": "2019",
             "link": "https://old.tjap.jus.br/portal/images/SGPE/magistrados/DocenciaMagistrados07.2019.pdf"
         },
         {
-            "opcao": "Magistrados (as) Fomadores(as)",
+            "titulo": "Magistrados (as) Fomadores(as)",
             "link": "https://4dd3990b-6420-42e3-91d5-15cae7a9c03c.filesusr.com/ugd/1524f61c4b73d9d7c14a98a72ac3389fa6bcf3.pdf"
         },
         {
-            "opcao": "2019-2020",
+            "titulo": "2019-2020",
             "link": "https://4dd3990b-6420-42e3-91d5-15cae7a9c03c.filesusr.com/ugd/1524f61c4b73d9d7c14a98a72ac3389fa6bcf3.pdf"
         },
         {
-            "opcao": "2017-2019",
+            "titulo": "2017-2019",
             "link": "https://4dd3990b-6420-42e3-91d5-15cae7a9c03c.filesusr.com/ugd/1524f6e59b5dfcac2a4d63881e5410c774dbf4.pdf"
         }
     ],

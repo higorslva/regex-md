@@ -1,127 +1,127 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Lista de Ramais Unidades",
+            "titulo": "Lista de Ramais Unidades",
             "link": "https://sig.tjap.jus.br/ramais/gridunidadesramais.php"
         },
         {
-            "opcao": "call3.png",
+            "titulo": "call3.png",
             "link": "https://old.tjap.jus.br/portal/images/call3.png"
         },
         {
-            "opcao": "Balcão Virtual TJAP",
+            "titulo": "Balcão Virtual TJAP",
             "link": "https://old.tjap.jus.br/portal/atendimento/balcao-virtual.html"
         },
         {
-            "opcao": "bv.png",
+            "titulo": "bv.png",
             "link": "https://old.tjap.jus.br/portal/images/bv.png"
         },
         {
-            "opcao": "presidencia@tjap.jus.br",
+            "titulo": "presidencia@tjap.jus.br",
             "link": "mailto:presidencia@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/9260-sede-do-tribunal-de-justiça-do-amapá.html"
         },
         {
-            "opcao": "diretoria.forum@tjap.jus.br",
+            "titulo": "diretoria.forum@tjap.jus.br",
             "link": "mailto:diretoria.forum@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/25-comarca-de-macapa.html"
         },
         {
-            "opcao": "dir.stn@tjap.jus.br",
+            "titulo": "dir.stn@tjap.jus.br",
             "link": "mailto:dir.stn@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/24-comarca-de-santana.html"
         },
         {
-            "opcao": "dir.ljari@tjap.jus.br",
+            "titulo": "dir.ljari@tjap.jus.br",
             "link": "mailto:dir.ljari@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/23-comarca-de-laranjal-do-jari.html"
         },
         {
-            "opcao": "dir.opq@tjap.jus.br",
+            "titulo": "dir.opq@tjap.jus.br",
             "link": "mailto:dir.opq@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/22-comarca-de-oiapoque.html"
         },
         {
-            "opcao": "varaunica.ferreiragomes@tjap.jus.br",
+            "titulo": "varaunica.ferreiragomes@tjap.jus.br",
             "link": "mailto:varaunica.ferreiragomes@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/21-comarca-de-ferreira-gomes.html"
         },
         {
-            "opcao": "vu.porto@tjap.jus.br",
+            "titulo": "vu.porto@tjap.jus.br",
             "link": "mailto:vu.porto@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/20-comarca-de-porto-grande.html"
         },
         {
-            "opcao": "vu.mazagao@tjap.jus.br",
+            "titulo": "vu.mazagao@tjap.jus.br",
             "link": "mailto:vu.mazagao@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/19-comarca-de-mazagao.html"
         },
         {
-            "opcao": "varaunica.amapa@tjap.jus.br",
+            "titulo": "varaunica.amapa@tjap.jus.br",
             "link": "mailto:varaunica.amapa@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/279-comarca-de-amapa-2.html"
         },
         {
-            "opcao": "varaunica.tartarugalzinho@tjap.jus.br",
+            "titulo": "varaunica.tartarugalzinho@tjap.jus.br",
             "link": "mailto:varaunica.tartarugalzinho@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/17-comarca-de-tartarugalzinho.html"
         },
         {
-            "opcao": "vu.vitoria@tjap.jus.br",
+            "titulo": "vu.vitoria@tjap.jus.br",
             "link": "mailto:vu.vitoria@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/16-comarca-de-vitoria-do-jari.html"
         },
         {
-            "opcao": "vu.calcoene@tjap.jus.br",
+            "titulo": "vu.calcoene@tjap.jus.br",
             "link": "mailto:vu.calcoene@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/15-comarca-de-calcoene.html"
         },
         {
-            "opcao": "vu.pedra@tjap.jus.br",
+            "titulo": "vu.pedra@tjap.jus.br",
             "link": "mailto:vu.pedra@tjap.jus.br"
         },
         {
-            "opcao": "Leia mais...",
+            "titulo": "Leia mais...",
             "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/1066-pedra-branca-do-amapari.html"
         },
         {
-            "opcao": "Início",
+            "titulo": "Início",
             "link": "https://old.tjap.jus.br/portal/"
         }
     ],

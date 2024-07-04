@@ -1,15 +1,15 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Súmulas do Tribunal de Justiça",
+            "titulo": "Súmulas do Tribunal de Justiça",
             "link": "https://old.tjap.jus.br/portal/consultas/sumulas/30-sumulas-tribunal.html"
         },
         {
-            "opcao": "Súmulas da Turma Recursal",
+            "titulo": "Súmulas da Turma Recursal",
             "link": "https://old.tjap.jus.br/portal/consultas/sumulas/90-sumulas-recursal.html"
         },
         {
-            "opcao": "Início",
+            "titulo": "Início",
             "link": "https://old.tjap.jus.br/portal/"
         }
     ],

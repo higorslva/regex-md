@@ -1,75 +1,75 @@
 {
-    "opcao_e_link": [
+    "titulo_e_link": [
         {
-            "opcao": "Portal",
+            "titulo": "Portal",
             "link": "https://old.tjap.jus.br/portal/"
         },
         {
-            "opcao": "Concursos",
+            "titulo": "Concursos",
             "link": "https://old.tjap.jus.br/portal/concursos.html"
         },
         {
-            "opcao": "Servidor Efetivo",
+            "titulo": "Servidor Efetivo",
             "link": "https://old.tjap.jus.br/portal/servidor-efetivo.html"
         },
         {
-            "opcao": "Concurso 2023",
+            "titulo": "Concurso 2023",
             "link": "https://old.tjap.jus.br/portal/servidor-efetivo/concurso-2023.html"
         },
         {
-            "opcao": "Cartórios Extrajudiciais",
+            "titulo": "Cartórios Extrajudiciais",
             "link": "https://old.tjap.jus.br/portal/cartórios-extrajudiciais.html"
         },
         {
-            "opcao": "Estagiários",
+            "titulo": "Estagiários",
             "link": "https://old.tjap.jus.br/portal/estagiarios.html"
         },
         {
-            "opcao": "14º Processo Seletivo Estágio",
+            "titulo": "14º Processo Seletivo Estágio",
             "link": "https://old.tjap.jus.br/portal/estagiarios/14-processo-seletivo-estágio.html"
         },
         {
-            "opcao": "13º Processo Seletivo Estágio",
+            "titulo": "13º Processo Seletivo Estágio",
             "link": "https://old.tjap.jus.br/portal/estagiarios/13-processo-seletivo-estágio.html"
         },
         {
-            "opcao": "Magistratura",
+            "titulo": "Magistratura",
             "link": "https://old.tjap.jus.br/portal/magistratura.html"
         },
         {
-            "opcao": "Remoção",
+            "titulo": "Remoção",
             "link": "https://old.tjap.jus.br/portal/remocao.html"
         },
         {
-            "opcao": "Residência Jurídica",
+            "titulo": "Residência Jurídica",
             "link": "https://old.tjap.jus.br/portal/residencia-juridica.html"
         },
         {
-            "opcao": "![Inserirumtitulo.png",
+            "titulo": "![Inserirumtitulo.png",
             "link": "https://old.tjap.jus.br/portal/images/Inserirumtitulo.png"
         },
         {
-            "opcao": "![CartoriosExtrajudiciais.png",
+            "titulo": "![CartoriosExtrajudiciais.png",
             "link": "https://old.tjap.jus.br/portal/images/CartoriosExtrajudiciais.png"
         },
         {
-            "opcao": "![Magistratura.png",
+            "titulo": "![Magistratura.png",
             "link": "https://old.tjap.jus.br/portal/images/Magistratura.png"
         },
         {
-            "opcao": "![Remocao.png",
+            "titulo": "![Remocao.png",
             "link": "https://old.tjap.jus.br/portal/images/Remocao.png"
         },
         {
-            "opcao": "![ServidorEfetivo.png",
+            "titulo": "![ServidorEfetivo.png",
             "link": "https://old.tjap.jus.br/portal/images/ServidorEfetivo.png"
         },
         {
-            "opcao": "![ResidenciaJuridica.png",
+            "titulo": "![ResidenciaJuridica.png",
             "link": "https://old.tjap.jus.br/portal/images/ResidenciaJuridica.png"
         },
         {
-            "opcao": "![Voluntariado.png",
+            "titulo": "![Voluntariado.png",
             "link": "https://old.tjap.jus.br/portal/images/Voluntariado.png"
         }
     ],
